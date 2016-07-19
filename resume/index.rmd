@@ -1,0 +1,117 @@
+---
+title: "Yeong Wei, Lai"
+output: html_document
+---
+
+6018 660 1566  
+yeongwei2004@yahoo.com  
+https://github.com/yeongwei     
+
+Approximately 6 years of experience with Software Engineering in software development.
+
+# Professional Details
+
+Company Name|Department|Position|Start Date|End Date
+------------|----------|--------|----------|--------
+Persistent Systems Malaysia Sdn Bhd|Development|Staff Software Engineer|March 2014|Present
+[Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709)|Development|Contractor by Origine IT Sdn Bhd|June 2012|March 2014
+[IBM Malaysia Sdn Bhd](https://www.ibm.com/ibm/my/en/)|Development|Contractor by [Origine IT Sdn Bhd](http://www.origineit.com/)|June 2010|June 2012
+
+# Programming Skillsets
+Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming
+
+# Product / Software Experiences
+Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), IBM Cognos Software Suite, IBM WebSphere Application Server, IBM InfoSphere DataStage, IBM Common User Interface Rest Interface (CURI), IBM Dashboard Application Service Hub (DASH), Apache Tomcat, Apache Web Server, Jetty Web Server, Alcatel-Lucent Service Aware Manager (SAM), Jenkins Integration Suite, Git Source Control, Oracle Database, MySQL, PostgreSQL, H2, IBM DB2, Akka, Kafka, Zookeeper, Hadoop, Ambari (IBM BigInsight), Simple Build Tool (SBT), Apache ANT Build Tool, Docker
+
+# Operation System Experiences
+CentOS, RHEL, Ubuntu
+
+# Education Details
+Institute Name|Programme|Qualification|Completion Date
+--------------|---------|-------------|---------------
+[Coursera](https://www.coursera.org/)|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](https://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
+Coursera|[Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)|Click [here](https://www.coursera.org/account/accomplishments/records/rPPWH9QVjAudgQcA) for Course Certificate|June 2014
+Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
+
+# Project Details
+
+## [Network Performance Insight](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/W3f051a61d14f_4538_b5bc_58a898795a21) (NPI)
+
+NPI is the next generation network performance management software that deploys with the [IBM Netcool Operations Insight](http://www-03.ibm.com/software/products/en/netcool-operations-insight) (NOI) as a full blown Enterprise Network Operation Support System (OSS) solution.
+
+#### Scope / Responsibility
+1. Product features development / implementation
+2. Built Verification Test (BVT) automation deployment and maintenance
+
+#### Contribution / Scope Highlights
+1. **Product Features Developed / Implemented**
+    + Storage Optimizer Enhacement
+        * Improved persistent storage pruning policy to execute computation based on file committed timestamp to allow delayed storage optimization use case
+        * Isolated optimization `Scan` and `Delete` code path to make enablement as user configurable
+    + SBT Build Code Enhancement
+        * Updated with [`ClasspathJarPlugin`](http://sbt-native-packager.readthedocs.io/en/latest/recipes/longclasspath.html#generate-a-classpath-jar) to resolve classpath ordering and long classpath issues
+    + JDBC Driver Implementation
+        * Based on Apache Calcite and Avatica. Click [here](#apache-calcite-avatica) for more informaiton.
+        * Implementation includes reference to [SQL-92 Gramma](https://en.wikipedia.org/wiki/SQL-92) and [Oracle Java JDBC Specification](http://download.oracle.com/otndocs/jcp/jdbc-4_1-mrel-spec/index.html)
+    + Multi [Node](http://doc.akka.io/docs/akka/snapshot/dev/multi-jvm-testing.html) / [JVM](http://doc.akka.io/docs/akka/snapshot/dev/multi-node-testing.html) Test Specification for Clustering Feature
+        * Developed test code to launch clustering test scenario to reduce physical hardware dependency
+    + Storage Writer
+        * Implemented `RAW` and `Aggregation` data writers based on [Akka Actor](http://akka.io/) with distributed computing capabilities and honoring the concept of actor-based concurrency to improve efficiency with multiple write paths availabilty
+
+2. **Automated BVT Ecosystem**
+    + As background, with Jenkins; Launch product components as Docker Containers, including installation and configurations; External data injection via in-house developed utilities; Execute End-to-End test code written with [Scala Test](http://www.scalatest.org/) framework; Consolidate results as J-Unit reports; Tear down / clean up ecosystem for next run
+    + Improved development and operation (DevOps) cycles
+        * Improved product build quaility as more bugs are captured before build is picked up by Quality Assurance(QA) Team
+        * Automated ecosystem reduces cost for executing BVT activities
+
+***
+
+### TNPM Wireline Prove-Of-Concept (POC)
+
+New business opportunities for TNPM within South-East Asia region by [Globe Telecom](https://www.globe.com.ph/) (Phillipines) and [TrueMove](http://truemoveh.truecorp.co.th/?ln=en) (Thailand).
+
+#### Scope / Responsibility
+1. TNPM POC system preparation according to Requet For Proposal (RFP) use cases
+2. Demostration / presentation / Walk-through with potential use groups
+3. Collaborate with on site teams to execute product integration (e.g. Fault Management, Uniform User Interface) and data stiching (e.g. Inventory enrichment)
+
+#### Contribution / Scope Highlights
+1. Implemented configurations and topologies to process performance data from Live Devices including enterprise level groupings for data aggregation and report nagivation with customized and personalized Cognos Reports
+2. Integrated [TNPM DataView](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/DataView/ctnpm_dv_userguide.html) into a common [IBM Dashboard Application Service Hub instance](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=b8caedd7-3aca-41c1-a9c1-7be87a51c50e)
+3. Integrated [TNPM DataChannel](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/install/ctnpm_installguide_tivolinetcoolperformancemanagerarchitecture-03-02.html) with [IBM Tivoli Netcool/OMNIbus](http://www-03.ibm.com/software/products/en/ibmtivolinetcoolomnibus) for SNMP Trap processing and consolidation
+4. Integrated [TNPM Mass Data Extraction](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/pdf/pdf_tnpm_mass_data_extraction.pdf) with [IBM Operation Analytics - Predictive Insights](http://www-03.ibm.com/software/products/en/ibm-operations-analytics---predictive-insights) for fault prediction relation modelling based on historical data
+
+***
+
+### [TNPM Data Provider](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10NP6I)
+
+***
+
+### [TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm_tp13J.doc/pack_rel_notes/ctnpm_relnotes_alcatel-lucent5620sam_logtofile2.1.0.0_tech_pak.html)
+
+***
+
+### TNPM All-KPI Reporting Automation
+
+***
+
+### TNPM Technology Pack Solution
+
+# Open Source Software Contributions
+
+## Apache [Calcite](https://calcite.apache.org/) & [Avatica](https://calcite.apache.org/avatica/)
+
+Data management framework based on Java.
+
+### JIRA References
+
+ID|Description
+--|-----------
+[CALCITE-705](https://issues.apache.org/jira/browse/CALCITE-705)|DML in Avatica, and split Execute out from Fetch request
+[CALCITE-666](https://issues.apache.org/jira/browse/CALCITE-666)|Anti-semi-joins against JDBC adapter give wrong results
+[CALCITE-259](https://issues.apache.org/jira/browse/CALCITE-259)|Using sub-queries in CASE statement against JDBC tables generates invalid Oracle SQL
+[CALCITE-646](https://issues.apache.org/jira/browse/CALCITE-646)|AvaticaStatement.execute method broken over remote JDBC
+
+
+
+
