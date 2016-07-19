@@ -160,8 +160,8 @@ img {
 <li>Built Verification Test (BVT) automation deployment and maintenance</li>
 </ol>
 </div>
-<div id="contribution-scope-highlights" class="section level4">
-<h4>Contribution / Scope Highlights</h4>
+<div id="contribution-highlights" class="section level4">
+<h4>Contribution Highlights</h4>
 <ol style="list-style-type: decimal">
 <li><strong>Product Features Developed / Implemented</strong>
 <ul>
@@ -211,8 +211,8 @@ img {
 <li>Collaborate with on site teams to execute product integration (e.g. Fault Management, Uniform User Interface) and data stiching (e.g. Inventory enrichment)</li>
 </ol>
 </div>
-<div id="contribution-scope-highlights-1" class="section level4">
-<h4>Contribution / Scope Highlights</h4>
+<div id="contribution-highlights-1" class="section level4">
+<h4>Contribution Highlights</h4>
 <ol style="list-style-type: decimal">
 <li>Implemented configurations and topologies to process performance data from Live Devices including enterprise level groupings for data aggregation and report nagivation with customized and personalized Cognos Reports</li>
 <li>Integrated <a href="https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/DataView/ctnpm_dv_userguide.html">TNPM DataView</a> into a common <a href="https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=b8caedd7-3aca-41c1-a9c1-7be87a51c50e">IBM Dashboard Application Service Hub instance</a></li>
@@ -224,18 +224,87 @@ img {
 </div>
 <div id="tnpm-data-provider" class="section level3">
 <h3><a href="https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10NP6I">TNPM Data Provider</a></h3>
+<p>The <a href="https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html">TNPM architecture</a> includes both Wireline and Wireless components. Each delivers as separated data source. The TNPM Data Provider is a common RESTful API that produce unified data which enables data federation possibilities.</p>
+<div id="scope-responsibility-2" class="section level4">
+<h4>Scope / Responsibility</h4>
+<ol style="list-style-type: decimal">
+<li>Resposible for the design of APIs and scope of features</li>
+<li>Implement POC and conduct requirement screening for various business use cases</li>
+<li>Develop as a product that fits into the TNPM solution ecosystem</li>
+</ol>
+</div>
+<div id="contribution-highlights-2" class="section level4">
+<h4>Contribution Highlights</h4>
+<ol style="list-style-type: decimal">
+<li>The eventual solution is a common RESTful interface that is installed into IBM WebSphere Application Server (WAS) via automated installer that consumes data from both Wireline and Wireless realms based on JDBC semantics and expose the unified data as JSON</li>
+<li>Implemented single point installer that orchastrates installation and configuration into WAS to reduce installation and uninstallation overhead</li>
+</ol>
 <hr />
+</div>
 </div>
 <div id="tnpm-alcatel-lucent-alu-5620-sam-logtofile" class="section level3">
 <h3><a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm_tp13J.doc/pack_rel_notes/ctnpm_relnotes_alcatel-lucent5620sam_logtofile2.1.0.0_tech_pak.html">TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile</a></h3>
+<p>SAM is an enteprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the <code>Performance</code> (e.g. CPU, MEM) and <code>Accounting</code> (e.g. Bandwidth, Utilization) data based on the <code>FindToFile</code> semantics. ALU advocates OSS clients to use the <code>LogToFile</code> method for greater scalability. IBM InforSphere DataStage is used as an interface to SAM to produce data in multiple streams followed by network modelling tasks by TNPM.</p>
+<div id="scope-responsibility-3" class="section level4">
+<h4>Scope / Responsibility</h4>
+<ol style="list-style-type: decimal">
+<li>Re-designed and re-implemented the <a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/bulk_collector/c_tnpm_bcol_intro_tnpmcollectortypes.html">TNPM UBA Bulk Collectors</a> to adapt new data schemas</li>
+<li>Ensure successful end-to-end solution integration, from SAM to reporting level (e.g. TNPM DataView, Cognos Reporting)</li>
+<li>Support deployments and defects raised by customers</li>
+</ol>
+</div>
+<div id="contribution-highlights-3" class="section level4">
+<h4>Contribution Highlights</h4>
+<ol style="list-style-type: decimal">
+<li>With multiple data streams from IBM InforSphere Datastage and TNPM multiple collector topology capabilities have increased overall processing throughput that satisfies customer requirements for network growth</li>
+<li>Participated in ALU and PSL joint venture product certification activity within ALU facility (Ottawa, Canada), achieving 80% passing rate</li>
+<li>Successful production rollout for <a href="http://www.telus.com">Telus</a> (Canada)</li>
+</ol>
 <hr />
 </div>
-<div id="tnpm-all-kpi-reporting-automation" class="section level3">
-<h3>TNPM All-KPI Reporting Automation</h3>
+</div>
+<div id="tnpm-cognos-all-kpi-reporting-automation" class="section level3">
+<h3>TNPM Cognos All-KPI Reporting Automation</h3>
+<p>The TNPM Cognos out-of-the-box deliverable includes the All-KPI reporting for data availability validation purposes. However it was a costly process to produce. An automation tool written in Perl using XML library was produced to improve efficiency.</p>
+<div id="scope-responsibility-4" class="section level4">
+<h4>Scope / Responsibility</h4>
+<ol style="list-style-type: decimal">
+<li>Propose and design automation ecosystem</li>
+<li>Develop automation based on agreed ecosystem</li>
+</ol>
+</div>
+<div id="contribution-highlights-4" class="section level4">
+<h4>Contribution Highlights</h4>
+<ol style="list-style-type: decimal">
+<li>Reduced development cost by approximately 60% (e.g. 5 days effort reduced to 2 days)</li>
+</ol>
 <hr />
+</div>
 </div>
 <div id="tnpm-technology-pack-solution" class="section level3">
-<h3>TNPM Technology Pack Solution</h3>
+<h3>TNPM <a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_tp14D.doc/pack_install_config/ctnpm_tpinstall_introduction_modify_1.html">Technology Pack</a> Solution</h3>
+<p>TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery and collection model for devices from different vendors.</p>
+<div id="scope-responsibility-5" class="section level4">
+<h4>Scope / Responsibility</h4>
+<ol style="list-style-type: decimal">
+<li>Technology Packs development based on either SNMP or Universal Bulk Adapter (UBA) protocol</li>
+<li>Development task includes,
+<ul>
+<li>Configure simulators. Either via <a href="http://www.gambitcomm.com/site/products/mimic_simulator.shtml">Mimic Simulator</a> or file generator based on Perl</li>
+<li>Network discovery (e.g. Network Inventory) and collection (e.g. Network metrics) formulas creation based on either MIBs or Element Management System (EMS) specifications</li>
+<li>Network modelling tasks including metric data aggregation grouping rules, report nagivational groups and collection strategy groups</li>
+<li>Report creation for DataView and/or Cognos reporting</li>
+<li>Technology pack build process execution for consistent wide distribution</li>
+<li>BVT execution before handing over to Quality Assurance team</li>
+</ul></li>
+</ol>
+</div>
+<div id="contribution-highlights-5" class="section level4">
+<h4>Contribution Highlights</h4>
+<ol style="list-style-type: decimal">
+<li>Produced various Technology Packs for General Availability (GA) variant</li>
+</ol>
+</div>
 </div>
 </div>
 </div>

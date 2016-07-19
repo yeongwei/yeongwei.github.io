@@ -43,7 +43,7 @@ NPI is the next generation network performance management software that deploys 
 1. Product features development / implementation
 2. Built Verification Test (BVT) automation deployment and maintenance
 
-#### Contribution / Scope Highlights
+#### Contribution Highlights
 1. **Product Features Developed / Implemented**
     + Storage Optimizer Enhacement
         * Improved persistent storage pruning policy to execute computation based on file committed timestamp to allow delayed storage optimization use case
@@ -66,36 +66,87 @@ NPI is the next generation network performance management software that deploys 
 
 ***
 
+### Umbrella Performance Management
+
+Dubai project that went under the code name of "Umbrella Performance Management". Particapted as offshore professional services role.
+
 ### TNPM Wireline Prove-Of-Concept (POC)
 
-New business opportunities for TNPM within South-East Asia region by [Globe Telecom](https://www.globe.com.ph/) (Phillipines) and [TrueMove](http://truemoveh.truecorp.co.th/?ln=en) (Thailand).
+New business opportunities for TNPM around South-East Asia region by [Globe Telecom](https://www.globe.com.ph/) (Phillipines) and [TrueMove](http://truemoveh.truecorp.co.th/?ln=en) (Thailand).
 
 #### Scope / Responsibility
 1. TNPM POC system preparation according to Requet For Proposal (RFP) use cases
 2. Demostration / presentation / Walk-through with potential use groups
-3. Collaborate with on site teams to execute product integration (e.g. Fault Management, Uniform User Interface) and data stiching (e.g. Inventory enrichment)
+3. Collaborate with on site teams to execute product integration (e.g. Fault Management, Dashboard User Interface) and data stiching (e.g. Inventory enrichment)
 
-#### Contribution / Scope Highlights
+#### Contribution Highlights
 1. Implemented configurations and topologies to process performance data from Live Devices including enterprise level groupings for data aggregation and report nagivation with customized and personalized Cognos Reports
-2. Integrated [TNPM DataView](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/DataView/ctnpm_dv_userguide.html) into a common [IBM Dashboard Application Service Hub instance](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=b8caedd7-3aca-41c1-a9c1-7be87a51c50e)
-3. Integrated [TNPM DataChannel](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/install/ctnpm_installguide_tivolinetcoolperformancemanagerarchitecture-03-02.html) with [IBM Tivoli Netcool/OMNIbus](http://www-03.ibm.com/software/products/en/ibmtivolinetcoolomnibus) for SNMP Trap processing and consolidation
+2. Integrated [TNPM DataView](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/DataView/ctnpm_dv_userguide.html) into a common [IBM Dashboard Application Service Hub instance](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=b8caedd7-3aca-41c1-a9c1-7be87a51c50e) as part of unified user interface use cases
+3. Integrated [TNPM DataChannel](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/install/ctnpm_installguide_tivolinetcoolperformancemanagerarchitecture-03-02.html) with [IBM Tivoli Netcool/OMNIbus](http://www-03.ibm.com/software/products/en/ibmtivolinetcoolomnibus) for SNMP Trap processing and consolidation as part of fault management use cases
 4. Integrated [TNPM Mass Data Extraction](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/pdf/pdf_tnpm_mass_data_extraction.pdf) with [IBM Operation Analytics - Predictive Insights](http://www-03.ibm.com/software/products/en/ibm-operations-analytics---predictive-insights) for fault prediction relation modelling based on historical data
 
 ***
 
 ### [TNPM Data Provider](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10NP6I)
 
+The [TNPM architecture](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html) includes both Wireline and Wireless components. Each delivers as separated data source. The TNPM Data Provider is a common RESTful API that produce unified data which enables data federation possibilities.
+
+#### Scope / Responsibility
+1. Resposible for the design of APIs and scope of features
+2. Implement POC and conduct requirement screening for various business use cases
+3. Develop as a product that fits into the TNPM solution ecosystem
+
+#### Contribution Highlights
+1. The eventual solution is a common RESTful interface that is installed into IBM WebSphere Application Server (WAS) via automated installer that consumes data from both Wireline and Wireless realms based on JDBC semantics and expose the unified data as JSON
+2. Implemented single point installer that orchastrates installation and configuration into WAS to reduce installation and uninstallation overhead
+
 ***
 
 ### [TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm_tp13J.doc/pack_rel_notes/ctnpm_relnotes_alcatel-lucent5620sam_logtofile2.1.0.0_tech_pak.html)
 
+SAM is an enteprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the `Performance` (e.g. CPU, MEM) and `Accounting` (e.g. Bandwidth, Utilization) data based on the `FindToFile` semantics. ALU advocates OSS clients to use the `LogToFile` method for greater scalability. IBM InforSphere DataStage is used as an interface to SAM to produce data in multiple streams followed by network modelling tasks by TNPM.
+
+#### Scope / Responsibility
+1. Re-designed and re-implemented the [TNPM UBA Bulk Collectors](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/bulk_collector/c_tnpm_bcol_intro_tnpmcollectortypes.html) to adapt new data schemas
+2. Ensure successful end-to-end solution integration, from SAM to reporting level (e.g. TNPM DataView, Cognos Reporting)
+3. Support deployments and defects raised by customers
+
+#### Contribution Highlights
+1. With multiple data streams from IBM InforSphere Datastage and TNPM multiple collector topology capabilities have increased overall processing throughput that satisfies customer requirements for network growth
+2. Participated in ALU and PSL joint venture product certification activity within ALU facility (Ottawa, Canada), achieving 80% passing rate
+3. Successful production rollout for [Telus](http://www.telus.com) (Canada)
+
 ***
 
-### TNPM All-KPI Reporting Automation
+### TNPM Cognos All-KPI Reporting Automation
+
+The TNPM Cognos out-of-the-box deliverable includes the All-KPI reporting for data availability validation purposes. However it was a costly process to produce. An automation tool written in Perl using XML library was produced to improve efficiency.
+
+#### Scope / Responsibility
+1. Propose and design automation ecosystem
+2. Develop automation based on agreed ecosystem
+
+#### Contribution Highlights
+1. Reduced development cost by approximately 60% (e.g. 5 days effort reduced to 2 days)
 
 ***
 
-### TNPM Technology Pack Solution
+### TNPM [Technology Pack](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_tp14D.doc/pack_install_config/ctnpm_tpinstall_introduction_modify_1.html) Solution
+
+TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery and collection model for devices from different vendors.
+
+#### Scope / Responsibility
+1. Technology Packs development based on either SNMP or Universal Bulk Adapter (UBA) protocol
+2. Development task includes,
+    * Configure simulators. Either via [Mimic Simulator](http://www.gambitcomm.com/site/products/mimic_simulator.shtml) or file generator based on Perl
+    * Network discovery (e.g. Network Inventory) and collection (e.g. Network metrics) formulas creation based on either MIBs or Element Management System (EMS) specifications
+    * Network modelling tasks including metric data aggregation grouping rules, report nagivational groups and collection strategy groups
+    * Report creation for DataView and/or Cognos reporting
+    * Technology pack build process execution for consistent wide distribution
+    * BVT execution before handing over to Quality Assurance team
+
+#### Contribution Highlights
+1. Produced various Technology Packs for General Availability (GA) variant
 
 # Open Source Software Contributions
 
