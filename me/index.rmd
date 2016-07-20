@@ -11,7 +11,9 @@ Hello There! If you have come this far, I am truely honored and I thank **YOU** 
 
 Currently I am attached to [Persistent System Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) under the [Tivoli Netcool Performance Manager](http://www-03.ibm.com/software/products/en/netcoolproviso) business unit; undertaking the position of Staff Software Engineer; responsible for software development activities; it has been 6 good working years under various software development related projects both in-house and off shore.
 
-Dealing with a few programming languages, nevertheless in recent years I have been dealing more with [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine) (JVM) technologies. The domains that I deal with are usually network domains related for both wireless and wireline. However, my daily task deals are related more to software engineering problems rather than Telecom problems.
+I graduated from Tunku Abdul Rahman College with Electronic Engineering as my academic domain. However I started work-dult-hood with a local software house and there after software has become my career theme.
+
+My daily task deals with a few programming languages, nevertheless in recent years I have been dealing more with [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine) (JVM) technologies. The domains that I deal with are usually network domains related for both wireless and wireline. However, my daily task deals are related more to software engineering problems rather than Telecom problems.
 
 My professional or career interest is and will still be heavily related to softwar engineering, particularly in software development; to give more context, on a daily basis I would spend most of my hours solving software engineering problems with programming skillsets and software product knowledge.
 
@@ -19,21 +21,29 @@ In recent years I have developed more interest for open source software technolo
 
 # Career Prospect
 
-Earlier I have mentioned about my knee interest for building a career with software engineering in software development. That I usually consider myself as more of a [Programmer](https://en.wikipedia.org/wiki/Programmer) than an [Engineer](https://en.wikipedia.org/wiki/Engineer) because in my humble opinion; Engineer is a highly respected position that honors the duty of improving by solving real life practical problem as a way of life. On the other hand, a programmer can be a respected position and does solving real life problems **but** at the same time it carries the notion of having fun. This is not to say that programmers do not take a job as serious as engineers but the point here is that programmers find fun in solving problem. Think of programmer as more of a hacker in this sense.
+I usually consider myself as more of a [Programmer](https://en.wikipedia.org/wiki/Programmer) than an [Engineer](https://en.wikipedia.org/wiki/Engineer) because in my humble opinion; Engineer is a highly respected position that honors the duty of improving by solving real life practical problem as a way of life. On the other hand, a programmer can be a respected position and does solving real life problems **but** at the same time it carries the notion of having fun. This is not to say that programmers do not take a job as serious as engineers but the point here is that programmers find fun in solving problem. 
+
+Think of programmer as more of a hacker in this sense.
 
 # Career Goal
 
-My eventual goal is to be able to operate as a [Software Architect](https://en.wikipedia.org/wiki/Software_architect) as my primary function and [Solution Architect](https://en.wikipedia.org/wiki/Solution_architect) as my secondary function. I foresee myself to be responsible in orchastrating sustainable software development process for the production of sustainable software solution ecosystem.
+My eventual goal is to be able to operate as a [Software Architect](https://en.wikipedia.org/wiki/Software_architect) as my primary function and [Solution Architect](https://en.wikipedia.org/wiki/Solution_architect) as my secondary function. 
+
+I foresee myself to be responsible for orchastrating sustainable software development process for the production of sustainable software solutions.
 
 # Career Interest
 
-I will be interested attaching to companies that deals with software or products build around with these [technologies](https://projects.apache.org/projects.html).
+I very interested attaching to software companies that deals with software or products that are built around with these [technologies](https://projects.apache.org/projects.html).
 
-For instance, softwares that are considered under the category of Big Data and Distributed Computing.
+As example, softwares that are considered under the category of Big Data and Distributed Computing.
 
 # Personal Interest
 
-1. Read
-2. Write 
-3. Code
-4. Lift (important!)
+1. Read, with a pinch of salt.
+2. Write, with a kind heart.
+3. Code, with a fierce passion.
+
+# Connect with M.E.
+
+1. [Facebook](https://www.facebook.com/lai.y.wei.73)
+2. [GitHub](https://github.com/yeongwei)
