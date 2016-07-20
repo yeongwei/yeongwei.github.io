@@ -64,7 +64,7 @@ img {
 </div>
 
 
-<p>6018 660 1566<br /><a href="mailto:yeongwei2004@yahoo.com">yeongwei2004@yahoo.com</a><br /><a href="https://github.com/yeongwei" class="uri">https://github.com/yeongwei</a></p>
+<p><strong>6 018 660 1566</strong><br /><a href="mailto:yeongwei2004@yahoo.com">yeongwei2004@yahoo.com</a><br /><a href="https://github.com/yeongwei" class="uri">https://github.com/yeongwei</a></p>
 <p>Approximately 6 years of experience with Software Engineering in software development.</p>
 <div id="professional-details" class="section level1">
 <h1>Professional Details</h1>
@@ -80,7 +80,7 @@ img {
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">Persistent Systems Malaysia Sdn Bhd</td>
+<td align="left">Persistent Systems Malaysia Sdn Bhd (PSL)</td>
 <td align="left">Development</td>
 <td align="left">Staff Software Engineer</td>
 <td align="left">March 2014</td>
@@ -157,7 +157,7 @@ img {
 <h4>Scope / Responsibility</h4>
 <ol style="list-style-type: decimal">
 <li>Product features development / implementation</li>
-<li>Built Verification Test (BVT) automation deployment and maintenance</li>
+<li>Automated End-to-end Built Verification Test (BVT) deployment and maintenance</li>
 </ol>
 </div>
 <div id="contribution-highlights" class="section level4">
@@ -165,78 +165,98 @@ img {
 <ol style="list-style-type: decimal">
 <li><strong>Product Features Developed / Implemented</strong>
 <ul>
-<li>Storage Optimizer Enhacement
+<li>Storage Optimizer Enhancement
 <ul>
-<li>Improved persistent storage pruning policy to execute computation based on file committed timestamp to allow delayed storage optimization use case</li>
-<li>Isolated optimization <code>Scan</code> and <code>Delete</code> code path to make enablement as user configurable</li>
+<li>Improved storage pruning policy to execute pruning logic based on file committed timestamp for delayed storage optimization use case</li>
+<li>Isolated optimization <code>Scan</code> and <code>Delete</code> path to make optimization enablement as user configurable parameter</li>
 </ul></li>
 <li>SBT Build Code Enhancement
 <ul>
-<li>Updated with <a href="http://sbt-native-packager.readthedocs.io/en/latest/recipes/longclasspath.html#generate-a-classpath-jar"><code>ClasspathJarPlugin</code></a> to resolve classpath ordering and long classpath issues</li>
+<li>Using <a href="http://sbt-native-packager.readthedocs.io/en/latest/recipes/longclasspath.html#generate-a-classpath-jar"><code>ClasspathJarPlugin</code></a> to resolve classpath ordering and long classpath issues</li>
 </ul></li>
 <li>JDBC Driver Implementation
 <ul>
 <li>Based on Apache Calcite and Avatica. Click <a href="#apache-calcite-avatica">here</a> for more informaiton.</li>
-<li>Implementation includes reference to <a href="https://en.wikipedia.org/wiki/SQL-92">SQL-92 Gramma</a> and <a href="http://download.oracle.com/otndocs/jcp/jdbc-4_1-mrel-spec/index.html">Oracle Java JDBC Specification</a></li>
+<li>Implementation to comply with <a href="https://en.wikipedia.org/wiki/SQL-92">SQL-92 Gramma</a> and <a href="http://download.oracle.com/otndocs/jcp/jdbc-4_1-mrel-spec/index.html">Oracle Java JDBC Specification</a></li>
 </ul></li>
 <li>Multi <a href="http://doc.akka.io/docs/akka/snapshot/dev/multi-jvm-testing.html">Node</a> / <a href="http://doc.akka.io/docs/akka/snapshot/dev/multi-node-testing.html">JVM</a> Test Specification for Clustering Feature
 <ul>
-<li>Developed test code to launch clustering test scenario to reduce physical hardware dependency</li>
+<li>Implemented test code for launching cluster test scenario to reduce physical hardware dependency</li>
 </ul></li>
 <li>Storage Writer
 <ul>
-<li>Implemented <code>RAW</code> and <code>Aggregation</code> data writers based on <a href="http://akka.io/">Akka Actor</a> with distributed computing capabilities and honoring the concept of actor-based concurrency to improve efficiency with multiple write paths availabilty</li>
+<li>Implemented <code>RAW</code> and <code>Aggregation</code> data writers based on <a href="http://akka.io/">Akka Actor</a> for distributed computing capabilities and honoring the concept of actor-based concurrency design to improve efficiency with the availability of multiple write paths</li>
 </ul></li>
 </ul></li>
 <li><strong>Automated BVT Ecosystem</strong>
 <ul>
-<li>As background, with Jenkins; Launch product components as Docker Containers, including installation and configurations; External data injection via in-house developed utilities; Execute End-to-End test code written with <a href="http://www.scalatest.org/">Scala Test</a> framework; Consolidate results as J-Unit reports; Tear down / clean up ecosystem for next run</li>
+<li>As background, Jenkins launches product components as Docker Containers, including installation and configurations; Invoke external data injection developed in-house; Execute End-to-End test written with <a href="http://www.scalatest.org/">Scala Test</a> framework; Consolidate results as J-Unit reports; Followed by tear down / clean up ecosystem for next run</li>
 <li>Improved development and operation (DevOps) cycles
 <ul>
-<li>Improved product build quaility as more bugs are captured before build is picked up by Quality Assurance(QA) Team</li>
+<li>Improved product build quaility as more bugs are captured before build is released to Quality Assurance (QA) team</li>
 <li>Automated ecosystem reduces cost for executing BVT activities</li>
 </ul></li>
 </ul></li>
 </ol>
 <hr />
 </div>
-<div id="tnpm-wireline-prove-of-concept-poc" class="section level3">
-<h3>TNPM Wireline Prove-Of-Concept (POC)</h3>
-<p>New business opportunities for TNPM within South-East Asia region by <a href="https://www.globe.com.ph/">Globe Telecom</a> (Phillipines) and <a href="http://truemoveh.truecorp.co.th/?ln=en">TrueMove</a> (Thailand).</p>
+<div id="umbrella-performance-management" class="section level3">
+<h3>Umbrella Performance Management</h3>
+<p>A Telecom industry project in Dubai code name “Umbrella Performance Management”. Contributed as offshore professional services.</p>
 <div id="scope-responsibility-1" class="section level4">
 <h4>Scope / Responsibility</h4>
 <ol style="list-style-type: decimal">
-<li>TNPM POC system preparation according to Requet For Proposal (RFP) use cases</li>
-<li>Demostration / presentation / Walk-through with potential use groups</li>
-<li>Collaborate with on site teams to execute product integration (e.g. Fault Management, Uniform User Interface) and data stiching (e.g. Inventory enrichment)</li>
+<li>Migrate Wireless Alarm schema Staging to Production environment</li>
+<li>Implement automated replication for Planned Outage (POHC) definition with data enrichment</li>
+<li>Implement tooling to generate Cognos Reporting Alarm Cross-launch definition</li>
 </ol>
 </div>
 <div id="contribution-highlights-1" class="section level4">
 <h4>Contribution Highlights</h4>
 <ol style="list-style-type: decimal">
-<li>Implemented configurations and topologies to process performance data from Live Devices including enterprise level groupings for data aggregation and report nagivation with customized and personalized Cognos Reports</li>
-<li>Integrated <a href="https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/DataView/ctnpm_dv_userguide.html">TNPM DataView</a> into a common <a href="https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=b8caedd7-3aca-41c1-a9c1-7be87a51c50e">IBM Dashboard Application Service Hub instance</a></li>
-<li>Integrated <a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/install/ctnpm_installguide_tivolinetcoolperformancemanagerarchitecture-03-02.html">TNPM DataChannel</a> with <a href="http://www-03.ibm.com/software/products/en/ibmtivolinetcoolomnibus">IBM Tivoli Netcool/OMNIbus</a> for SNMP Trap processing and consolidation</li>
-<li>Integrated <a href="https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/pdf/pdf_tnpm_mass_data_extraction.pdf">TNPM Mass Data Extraction</a> with <a href="http://www-03.ibm.com/software/products/en/ibm-operations-analytics---predictive-insights">IBM Operation Analytics - Predictive Insights</a> for fault prediction relation modelling based on historical data</li>
+<li>Wireless Alarm migration code, candidate to be productized as a GA feature</li>
+<li>Automated Alarm Cross-launch definition to reduce manual intervention and improved efficient</li>
+</ol>
+<hr />
+</div>
+</div>
+<div id="tnpm-wireline-prove-of-concept-poc" class="section level3">
+<h3>TNPM Wireline Prove-Of-Concept (POC)</h3>
+<p>New business opportunities for TNPM around South-East Asia region by <a href="https://www.globe.com.ph/">Globe Telecom</a> (Philippines) and <a href="http://truemoveh.truecorp.co.th/?ln=en">TrueMove</a> (Thailand).</p>
+<div id="scope-responsibility-2" class="section level4">
+<h4>Scope / Responsibility</h4>
+<ol style="list-style-type: decimal">
+<li>TNPM POC system preparation according to Request For Proposal (RFP) use cases</li>
+<li>Demostration / presentation / Walk-through with potential user groups</li>
+<li>Collaborate with on-site teams to execute product integration (e.g. Fault Management, Dashboard User Interface) and data stiching (e.g. Inventory enrichment)</li>
+</ol>
+</div>
+<div id="contribution-highlights-2" class="section level4">
+<h4>Contribution Highlights</h4>
+<ol style="list-style-type: decimal">
+<li>Implemented custom configurations and topologies to process performance data from live devices including enterprise level groupings for data aggregation, custom report nagivation and personalized Cognos Reports</li>
+<li>Integrated <a href="https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/DataView/ctnpm_dv_userguide.html">TNPM DataView</a> into a common <a href="https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=b8caedd7-3aca-41c1-a9c1-7be87a51c50e">IBM Dashboard Application Service Hub instance</a> as part of unified user interface use case</li>
+<li>Integrated <a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/install/ctnpm_installguide_tivolinetcoolperformancemanagerarchitecture-03-02.html">TNPM DataChannel</a> with <a href="http://www-03.ibm.com/software/products/en/ibmtivolinetcoolomnibus">IBM Tivoli Netcool/OMNIbus</a> for SNMP Trap processing and consolidation as part of fault management use case</li>
+<li>Integrated TNPM with <a href="http://www-03.ibm.com/software/products/en/ibm-operations-analytics---predictive-insights">IBM Operation Analytics - Predictive Insights</a> via <a href="https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/pdf/pdf_tnpm_mass_data_extraction.pdf">Mass Data Extraction</a> for fault prediction use case</li>
 </ol>
 <hr />
 </div>
 </div>
 <div id="tnpm-data-provider" class="section level3">
 <h3><a href="https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10NP6I">TNPM Data Provider</a></h3>
-<p>The <a href="https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html">TNPM architecture</a> includes both Wireline and Wireless components. Each delivers as separated data source. The TNPM Data Provider is a common RESTful API that produce unified data which enables data federation possibilities.</p>
-<div id="scope-responsibility-2" class="section level4">
+<p>The <a href="https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html">TNPM architecture</a> includes both Wireline and Wireless components. Each delivers data as separated source. The TNPM Data Provider is a common RESTful API that produce unified data which enables data federation.</p>
+<div id="scope-responsibility-3" class="section level4">
 <h4>Scope / Responsibility</h4>
 <ol style="list-style-type: decimal">
 <li>Resposible for the design of APIs and scope of features</li>
-<li>Implement POC and conduct requirement screening for various business use cases</li>
-<li>Develop as a product that fits into the TNPM solution ecosystem</li>
+<li>Implement POC and conduct requirement screening for business use case</li>
+<li>Develop features that fits into the TNPM solution ecosystem</li>
 </ol>
 </div>
-<div id="contribution-highlights-2" class="section level4">
+<div id="contribution-highlights-3" class="section level4">
 <h4>Contribution Highlights</h4>
 <ol style="list-style-type: decimal">
-<li>The eventual solution is a common RESTful interface that is installed into IBM WebSphere Application Server (WAS) via automated installer that consumes data from both Wireline and Wireless realms based on JDBC semantics and expose the unified data as JSON</li>
+<li>Eventual solution is a common RESTful interface that is installed into IBM WebSphere Application Server (WAS) via automated installer that consumes data from both Wireline and Wireless based on JDBC semantics and expose the unified data as JSON</li>
 <li>Implemented single point installer that orchastrates installation and configuration into WAS to reduce installation and uninstallation overhead</li>
 </ol>
 <hr />
@@ -244,36 +264,36 @@ img {
 </div>
 <div id="tnpm-alcatel-lucent-alu-5620-sam-logtofile" class="section level3">
 <h3><a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm_tp13J.doc/pack_rel_notes/ctnpm_relnotes_alcatel-lucent5620sam_logtofile2.1.0.0_tech_pak.html">TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile</a></h3>
-<p>SAM is an enteprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the <code>Performance</code> (e.g. CPU, MEM) and <code>Accounting</code> (e.g. Bandwidth, Utilization) data based on the <code>FindToFile</code> semantics. ALU advocates OSS clients to use the <code>LogToFile</code> method for greater scalability. IBM InforSphere DataStage is used as an interface to SAM to produce data in multiple streams followed by network modelling tasks by TNPM.</p>
-<div id="scope-responsibility-3" class="section level4">
+<p>SAM is an enteprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the <code>Performance</code> (e.g. CPU, MEM) and <code>Accounting</code> (e.g. Bandwidth, Utilization) data based on the <code>FindToFile</code> method. ALU advocates moving forward for OSS clients to use the <code>LogToFile</code> method for greater scalability. IBM InforSphere DataStage (DataStage) as interface to SAM for multiple data streams followed by network modelling in TNPM.</p>
+<div id="scope-responsibility-4" class="section level4">
 <h4>Scope / Responsibility</h4>
 <ol style="list-style-type: decimal">
-<li>Re-designed and re-implemented the <a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/bulk_collector/c_tnpm_bcol_intro_tnpmcollectortypes.html">TNPM UBA Bulk Collectors</a> to adapt new data schemas</li>
-<li>Ensure successful end-to-end solution integration, from SAM to reporting level (e.g. TNPM DataView, Cognos Reporting)</li>
-<li>Support deployments and defects raised by customers</li>
+<li>Re-design and re-implement the <a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/bulk_collector/c_tnpm_bcol_intro_tnpmcollectortypes.html">TNPM UBA Bulk Collectors</a> for new data schemas</li>
+<li>Ensure successful end-to-end solution integration</li>
+<li>Support deployment activities and defects raised</li>
 </ol>
 </div>
-<div id="contribution-highlights-3" class="section level4">
+<div id="contribution-highlights-4" class="section level4">
 <h4>Contribution Highlights</h4>
 <ol style="list-style-type: decimal">
-<li>With multiple data streams from IBM InforSphere Datastage and TNPM multiple collector topology capabilities have increased overall processing throughput that satisfies customer requirements for network growth</li>
-<li>Participated in ALU and PSL joint venture product certification activity within ALU facility (Ottawa, Canada), achieving 80% passing rate</li>
+<li>With multiple data streams from DataStage and multiple collector topology from TNPM have increased processing throughput to satisfies customer requirements on network growth</li>
+<li>Participated in ALU and PSL joint venture OSS certification activity in ALU facility (Ottawa, Canada), achieving 80% passing rate</li>
 <li>Successful production rollout for <a href="http://www.telus.com">Telus</a> (Canada)</li>
 </ol>
 <hr />
 </div>
 </div>
-<div id="tnpm-cognos-all-kpi-reporting-automation" class="section level3">
-<h3>TNPM Cognos All-KPI Reporting Automation</h3>
-<p>The TNPM Cognos out-of-the-box deliverable includes the All-KPI reporting for data availability validation purposes. However it was a costly process to produce. An automation tool written in Perl using XML library was produced to improve efficiency.</p>
-<div id="scope-responsibility-4" class="section level4">
+<div id="tnpm-cognos-all-kpi-report-automation" class="section level3">
+<h3>TNPM Cognos All-KPI Report Automation</h3>
+<p>The TNPM Cognos deliverable includes the All-KPI Report for data availability validation purposes. However it was a costly to produce. An automation tool written to improve cost efficiency.</p>
+<div id="scope-responsibility-5" class="section level4">
 <h4>Scope / Responsibility</h4>
 <ol style="list-style-type: decimal">
-<li>Propose and design automation ecosystem</li>
+<li>Propose and design automation ecosystem (e.g. MVC)</li>
 <li>Develop automation based on agreed ecosystem</li>
 </ol>
 </div>
-<div id="contribution-highlights-4" class="section level4">
+<div id="contribution-highlights-5" class="section level4">
 <h4>Contribution Highlights</h4>
 <ol style="list-style-type: decimal">
 <li>Reduced development cost by approximately 60% (e.g. 5 days effort reduced to 2 days)</li>
@@ -283,26 +303,26 @@ img {
 </div>
 <div id="tnpm-technology-pack-solution" class="section level3">
 <h3>TNPM <a href="http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_tp14D.doc/pack_install_config/ctnpm_tpinstall_introduction_modify_1.html">Technology Pack</a> Solution</h3>
-<p>TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery and collection model for devices from different vendors.</p>
-<div id="scope-responsibility-5" class="section level4">
+<p>TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery, collection model and report definitions for various vendor devices (e.g. Huawei, Cicso, Ericsson).</p>
+<div id="scope-responsibility-6" class="section level4">
 <h4>Scope / Responsibility</h4>
 <ol style="list-style-type: decimal">
-<li>Technology Packs development based on either SNMP or Universal Bulk Adapter (UBA) protocol</li>
+<li>Develop Technology Packs based for either SNMP or Universal Bulk Adapter (UBA) protocol</li>
 <li>Development task includes,
 <ul>
 <li>Configure simulators. Either via <a href="http://www.gambitcomm.com/site/products/mimic_simulator.shtml">Mimic Simulator</a> or file generator based on Perl</li>
 <li>Network discovery (e.g. Network Inventory) and collection (e.g. Network metrics) formulas creation based on either MIBs or Element Management System (EMS) specifications</li>
-<li>Network modelling tasks including metric data aggregation grouping rules, report nagivational groups and collection strategy groups</li>
+<li>Network modelling tasks including metric data aggregation grouping rules, report nagivational groups and collection strategy groupings</li>
 <li>Report creation for DataView and/or Cognos reporting</li>
-<li>Technology pack build process execution for consistent wide distribution</li>
-<li>BVT execution before handing over to Quality Assurance team</li>
+<li>Technology pack build process execution</li>
+<li>BVT execution before handing over to QA team</li>
 </ul></li>
 </ol>
 </div>
-<div id="contribution-highlights-5" class="section level4">
+<div id="contribution-highlights-6" class="section level4">
 <h4>Contribution Highlights</h4>
 <ol style="list-style-type: decimal">
-<li>Produced various Technology Packs for General Availability (GA) variant</li>
+<li>Produced various General Availability (GA) variant Technology Packs</li>
 </ol>
 </div>
 </div>

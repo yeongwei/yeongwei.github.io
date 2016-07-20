@@ -3,7 +3,7 @@ title: "Yeong Wei, Lai"
 output: html_document
 ---
 
-6018 660 1566  
+**6 018 660 1566**  
 yeongwei2004@yahoo.com  
 https://github.com/yeongwei     
 
@@ -13,7 +13,7 @@ Approximately 6 years of experience with Software Engineering in software develo
 
 Company Name|Department|Position|Start Date|End Date
 ------------|----------|--------|----------|--------
-Persistent Systems Malaysia Sdn Bhd|Development|Staff Software Engineer|March 2014|Present
+Persistent Systems Malaysia Sdn Bhd (PSL)|Development|Staff Software Engineer|March 2014|Present
 [Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709)|Development|Contractor by Origine IT Sdn Bhd|June 2012|March 2014
 [IBM Malaysia Sdn Bhd](https://www.ibm.com/ibm/my/en/)|Development|Contractor by [Origine IT Sdn Bhd](http://www.origineit.com/)|June 2010|June 2012
 
@@ -41,89 +41,100 @@ NPI is the next generation network performance management software that deploys 
 
 #### Scope / Responsibility
 1. Product features development / implementation
-2. Built Verification Test (BVT) automation deployment and maintenance
+2. Automated End-to-end Built Verification Test (BVT) deployment and maintenance
 
 #### Contribution Highlights
 1. **Product Features Developed / Implemented**
-    + Storage Optimizer Enhacement
-        * Improved persistent storage pruning policy to execute computation based on file committed timestamp to allow delayed storage optimization use case
-        * Isolated optimization `Scan` and `Delete` code path to make enablement as user configurable
+    + Storage Optimizer Enhancement
+        * Improved storage pruning policy to execute pruning logic based on file committed timestamp for delayed storage optimization use case
+        * Isolated optimization `Scan` and `Delete` path to make optimization enablement as user configurable parameter
     + SBT Build Code Enhancement
-        * Updated with [`ClasspathJarPlugin`](http://sbt-native-packager.readthedocs.io/en/latest/recipes/longclasspath.html#generate-a-classpath-jar) to resolve classpath ordering and long classpath issues
+        * Using [`ClasspathJarPlugin`](http://sbt-native-packager.readthedocs.io/en/latest/recipes/longclasspath.html#generate-a-classpath-jar) to resolve classpath ordering and long classpath issues
     + JDBC Driver Implementation
         * Based on Apache Calcite and Avatica. Click [here](#apache-calcite-avatica) for more informaiton.
-        * Implementation includes reference to [SQL-92 Gramma](https://en.wikipedia.org/wiki/SQL-92) and [Oracle Java JDBC Specification](http://download.oracle.com/otndocs/jcp/jdbc-4_1-mrel-spec/index.html)
+        * Implementation to comply with [SQL-92 Gramma](https://en.wikipedia.org/wiki/SQL-92) and [Oracle Java JDBC Specification](http://download.oracle.com/otndocs/jcp/jdbc-4_1-mrel-spec/index.html)
     + Multi [Node](http://doc.akka.io/docs/akka/snapshot/dev/multi-jvm-testing.html) / [JVM](http://doc.akka.io/docs/akka/snapshot/dev/multi-node-testing.html) Test Specification for Clustering Feature
-        * Developed test code to launch clustering test scenario to reduce physical hardware dependency
+        * Implemented test code for launching cluster test scenario to reduce physical hardware dependency
     + Storage Writer
-        * Implemented `RAW` and `Aggregation` data writers based on [Akka Actor](http://akka.io/) with distributed computing capabilities and honoring the concept of actor-based concurrency to improve efficiency with multiple write paths availabilty
+        * Implemented `RAW` and `Aggregation` data writers based on [Akka Actor](http://akka.io/) for distributed computing capabilities and honoring the concept of actor-based concurrency design to improve efficiency with the availability of multiple write paths
 
 2. **Automated BVT Ecosystem**
-    + As background, with Jenkins; Launch product components as Docker Containers, including installation and configurations; External data injection via in-house developed utilities; Execute End-to-End test code written with [Scala Test](http://www.scalatest.org/) framework; Consolidate results as J-Unit reports; Tear down / clean up ecosystem for next run
+    + As background, Jenkins launches product components as Docker Containers, including installation and configurations; Invoke external data injection developed in-house; Execute End-to-End test written with [Scala Test](http://www.scalatest.org/) framework; Consolidate results as J-Unit reports; Followed by tear down / clean up ecosystem for next run
     + Improved development and operation (DevOps) cycles
-        * Improved product build quaility as more bugs are captured before build is picked up by Quality Assurance(QA) Team
+        * Improved product build quaility as more bugs are captured before build is released to Quality Assurance (QA) team
         * Automated ecosystem reduces cost for executing BVT activities
 
 ***
 
 ### Umbrella Performance Management
 
-Dubai project that went under the code name of "Umbrella Performance Management". Particapted as offshore professional services role.
+A Telecom industry project in Dubai code name "Umbrella Performance Management". Contributed as offshore professional services.
+
+#### Scope / Responsibility
+1. Migrate Wireless Alarm schema Staging to Production environment
+2. Implement automated replication for Planned Outage (POHC) definition with data enrichment
+3. Implement tooling to generate Cognos Reporting Alarm Cross-launch definition
+
+#### Contribution Highlights
+1. Wireless Alarm migration code, candidate to be productized as a GA feature
+2. Automated Alarm Cross-launch definition to reduce manual intervention and improved efficient
+
+***
 
 ### TNPM Wireline Prove-Of-Concept (POC)
 
-New business opportunities for TNPM around South-East Asia region by [Globe Telecom](https://www.globe.com.ph/) (Phillipines) and [TrueMove](http://truemoveh.truecorp.co.th/?ln=en) (Thailand).
+New business opportunities for TNPM around South-East Asia region by [Globe Telecom](https://www.globe.com.ph/) (Philippines) and [TrueMove](http://truemoveh.truecorp.co.th/?ln=en) (Thailand).
 
 #### Scope / Responsibility
-1. TNPM POC system preparation according to Requet For Proposal (RFP) use cases
-2. Demostration / presentation / Walk-through with potential use groups
-3. Collaborate with on site teams to execute product integration (e.g. Fault Management, Dashboard User Interface) and data stiching (e.g. Inventory enrichment)
+1. TNPM POC system preparation according to Request For Proposal (RFP) use cases
+2. Demostration / presentation / Walk-through with potential user groups
+3. Collaborate with on-site teams to execute product integration (e.g. Fault Management, Dashboard User Interface) and data stiching (e.g. Inventory enrichment)
 
 #### Contribution Highlights
-1. Implemented configurations and topologies to process performance data from Live Devices including enterprise level groupings for data aggregation and report nagivation with customized and personalized Cognos Reports
-2. Integrated [TNPM DataView](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/DataView/ctnpm_dv_userguide.html) into a common [IBM Dashboard Application Service Hub instance](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=b8caedd7-3aca-41c1-a9c1-7be87a51c50e) as part of unified user interface use cases
-3. Integrated [TNPM DataChannel](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/install/ctnpm_installguide_tivolinetcoolperformancemanagerarchitecture-03-02.html) with [IBM Tivoli Netcool/OMNIbus](http://www-03.ibm.com/software/products/en/ibmtivolinetcoolomnibus) for SNMP Trap processing and consolidation as part of fault management use cases
-4. Integrated [TNPM Mass Data Extraction](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/pdf/pdf_tnpm_mass_data_extraction.pdf) with [IBM Operation Analytics - Predictive Insights](http://www-03.ibm.com/software/products/en/ibm-operations-analytics---predictive-insights) for fault prediction relation modelling based on historical data
+1. Implemented custom configurations and topologies to process performance data from live devices including enterprise level groupings for data aggregation, custom report nagivation and personalized Cognos Reports
+2. Integrated [TNPM DataView](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/DataView/ctnpm_dv_userguide.html) into a common [IBM Dashboard Application Service Hub instance](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=b8caedd7-3aca-41c1-a9c1-7be87a51c50e) as part of unified user interface use case
+3. Integrated [TNPM DataChannel](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/install/ctnpm_installguide_tivolinetcoolperformancemanagerarchitecture-03-02.html) with [IBM Tivoli Netcool/OMNIbus](http://www-03.ibm.com/software/products/en/ibmtivolinetcoolomnibus) for SNMP Trap processing and consolidation as part of fault management use case
+4. Integrated TNPM with [IBM Operation Analytics - Predictive Insights](http://www-03.ibm.com/software/products/en/ibm-operations-analytics---predictive-insights) via [Mass Data Extraction](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm.doc/pdf/pdf_tnpm_mass_data_extraction.pdf) for fault prediction use case
 
 ***
 
 ### [TNPM Data Provider](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10NP6I)
 
-The [TNPM architecture](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html) includes both Wireline and Wireless components. Each delivers as separated data source. The TNPM Data Provider is a common RESTful API that produce unified data which enables data federation possibilities.
+The [TNPM architecture](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html) includes both Wireline and Wireless components. Each delivers data as separated source. The TNPM Data Provider is a common RESTful API that produce unified data which enables data federation.
 
 #### Scope / Responsibility
 1. Resposible for the design of APIs and scope of features
-2. Implement POC and conduct requirement screening for various business use cases
-3. Develop as a product that fits into the TNPM solution ecosystem
+2. Implement POC and conduct requirement screening for business use case
+3. Develop features that fits into the TNPM solution ecosystem
 
 #### Contribution Highlights
-1. The eventual solution is a common RESTful interface that is installed into IBM WebSphere Application Server (WAS) via automated installer that consumes data from both Wireline and Wireless realms based on JDBC semantics and expose the unified data as JSON
+1. Eventual solution is a common RESTful interface that is installed into IBM WebSphere Application Server (WAS) via automated installer that consumes data from both Wireline and Wireless based on JDBC semantics and expose the unified data as JSON
 2. Implemented single point installer that orchastrates installation and configuration into WAS to reduce installation and uninstallation overhead
 
 ***
 
 ### [TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm_tp13J.doc/pack_rel_notes/ctnpm_relnotes_alcatel-lucent5620sam_logtofile2.1.0.0_tech_pak.html)
 
-SAM is an enteprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the `Performance` (e.g. CPU, MEM) and `Accounting` (e.g. Bandwidth, Utilization) data based on the `FindToFile` semantics. ALU advocates OSS clients to use the `LogToFile` method for greater scalability. IBM InforSphere DataStage is used as an interface to SAM to produce data in multiple streams followed by network modelling tasks by TNPM.
+SAM is an enteprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the `Performance` (e.g. CPU, MEM) and `Accounting` (e.g. Bandwidth, Utilization) data based on the `FindToFile` method. ALU advocates moving forward for OSS clients to use the `LogToFile` method for greater scalability. IBM InforSphere DataStage (DataStage) as interface to SAM for multiple data streams followed by network modelling in TNPM.
 
 #### Scope / Responsibility
-1. Re-designed and re-implemented the [TNPM UBA Bulk Collectors](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/bulk_collector/c_tnpm_bcol_intro_tnpmcollectortypes.html) to adapt new data schemas
-2. Ensure successful end-to-end solution integration, from SAM to reporting level (e.g. TNPM DataView, Cognos Reporting)
-3. Support deployments and defects raised by customers
+1. Re-design and re-implement the [TNPM UBA Bulk Collectors](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/bulk_collector/c_tnpm_bcol_intro_tnpmcollectortypes.html) for new data schemas
+2. Ensure successful end-to-end solution integration
+3. Support deployment activities and defects raised
 
 #### Contribution Highlights
-1. With multiple data streams from IBM InforSphere Datastage and TNPM multiple collector topology capabilities have increased overall processing throughput that satisfies customer requirements for network growth
-2. Participated in ALU and PSL joint venture product certification activity within ALU facility (Ottawa, Canada), achieving 80% passing rate
+1. With multiple data streams from DataStage and multiple collector topology from TNPM have increased processing throughput to satisfies customer requirements on network growth
+2. Participated in ALU and PSL joint venture OSS certification activity in ALU facility (Ottawa, Canada), achieving 80% passing rate
 3. Successful production rollout for [Telus](http://www.telus.com) (Canada)
 
 ***
 
-### TNPM Cognos All-KPI Reporting Automation
+### TNPM Cognos All-KPI Report Automation
 
-The TNPM Cognos out-of-the-box deliverable includes the All-KPI reporting for data availability validation purposes. However it was a costly process to produce. An automation tool written in Perl using XML library was produced to improve efficiency.
+The TNPM Cognos deliverable includes the All-KPI Report for data availability validation purposes. However it was a costly to produce. An automation tool written to improve cost efficiency.
 
 #### Scope / Responsibility
-1. Propose and design automation ecosystem
+1. Propose and design automation ecosystem (e.g. MVC)
 2. Develop automation based on agreed ecosystem
 
 #### Contribution Highlights
@@ -133,20 +144,20 @@ The TNPM Cognos out-of-the-box deliverable includes the All-KPI reporting for da
 
 ### TNPM [Technology Pack](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_tp14D.doc/pack_install_config/ctnpm_tpinstall_introduction_modify_1.html) Solution
 
-TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery and collection model for devices from different vendors.
+TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery, collection model and report definitions for various vendor devices (e.g. Huawei, Cicso, Ericsson).
 
 #### Scope / Responsibility
-1. Technology Packs development based on either SNMP or Universal Bulk Adapter (UBA) protocol
+1. Develop Technology Packs based for either SNMP or Universal Bulk Adapter (UBA) protocol
 2. Development task includes,
     * Configure simulators. Either via [Mimic Simulator](http://www.gambitcomm.com/site/products/mimic_simulator.shtml) or file generator based on Perl
     * Network discovery (e.g. Network Inventory) and collection (e.g. Network metrics) formulas creation based on either MIBs or Element Management System (EMS) specifications
-    * Network modelling tasks including metric data aggregation grouping rules, report nagivational groups and collection strategy groups
+    * Network modelling tasks including metric data aggregation grouping rules, report nagivational groups and collection strategy groupings
     * Report creation for DataView and/or Cognos reporting
-    * Technology pack build process execution for consistent wide distribution
-    * BVT execution before handing over to Quality Assurance team
+    * Technology pack build process execution
+    * BVT execution before handing over to QA team
 
 #### Contribution Highlights
-1. Produced various Technology Packs for General Availability (GA) variant
+1. Produced various General Availability (GA) variant Technology Packs 
 
 # Open Source Software Contributions
 
