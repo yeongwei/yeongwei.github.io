@@ -5,17 +5,18 @@ output: html_document
 
 # Introduction
 
-Hello There! If you have come this far, I am truely honored and I thank **YOU** for making effort navigating this far. Welcome! My name is Yeong Wei, Lai. This is a write up about myself and eventually if you did not find any joy in reading the typings below, I sincerely hope that you at least find it a pleasant read. Once again, thank **YOU** very much!
+Hello There! If you have come this far, I am truly honored and I thank **YOU** for making effort navigating this far. Welcome! My name is Yeong Wei, Lai. This is a write up about myself and eventually if you did not find any joy in reading the typings below, I sincerely hope that you at least find it a pleasant read. Once again, thank **YOU** very much!
 
 # About M.E.
 
 Currently I am attached to [Persistent System Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) under the [Tivoli Netcool Performance Manager](http://www-03.ibm.com/software/products/en/netcoolproviso) business unit; undertaking the position of Staff Software Engineer; responsible for software development activities; it has been 6 good working years under various software development related projects both in-house and off shore.
 
-I graduated from Tunku Abdul Rahman College with Electronic Engineering as my academic domain. However I started work-dult-hood with a local software house and there after software has become my career theme.
+I graduated from Tunku Abdul Rahman College with Electronic Engineering as my academic domain. However I started working
+with a local software house and there after software has become my career theme.
 
 My daily task deals with a few programming languages, nevertheless in recent years I have been dealing more with [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine) (JVM) technologies. The domains that I deal with are usually network domains related for both wireless and wireline. However, my daily task deals are related more to software engineering problems rather than Telecom problems.
 
-My professional or career interest is and will still be heavily related to softwar engineering, particularly in software development; to give more context, on a daily basis I would spend most of my hours solving software engineering problems with programming skillsets and software product knowledge.
+My professional or career interest is and will still be heavily related to software engineering, particularly in software development; to give more context, on a daily basis I would spend most of my hours solving software engineering problems with programming skillsets and software product knowledge.
 
 In recent years I have developed more interest for open source software technology, in particular the ones govern by [The Apache Software Foundation](http://www.apache.org/) for [Big Data](https://en.wikipedia.org/wiki/Big_data) and [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing).
 
@@ -29,7 +30,7 @@ Think of programmer as more of a hacker in this sense.
 
 My eventual goal is to be able to operate as a [Software Architect](https://en.wikipedia.org/wiki/Software_architect) as my primary function and [Solution Architect](https://en.wikipedia.org/wiki/Solution_architect) as my secondary function. 
 
-I foresee myself to be responsible for orchastrating sustainable software development process for the production of sustainable software solutions.
+I foresee myself to be responsible for sustainable software development orchestration in the production of sustainable software solutions.
 
 # Career Interest
 
