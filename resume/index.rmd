@@ -11,7 +11,7 @@ Approximately 6 years of experience with Software Engineering in software develo
 
 # Professional Details
 
-Company Name|Department|Position|Start Date|End Date
+Company Name|Team|Position|Start Date|End Date
 ------------|----------|--------|----------|--------
 Persistent Systems Malaysia Sdn Bhd (PSL)|Development|Staff Software Engineer|March 2014|Present
 [Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709)|Development|Contractor by Origine IT Sdn Bhd|June 2012|March 2014
@@ -21,7 +21,31 @@ Persistent Systems Malaysia Sdn Bhd (PSL)|Development|Staff Software Engineer|Ma
 Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming
 
 # Product / Software Experiences
-Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), IBM Cognos Software Suite, IBM WebSphere Application Server, IBM InfoSphere DataStage, IBM Common User Interface Rest Interface (CURI), IBM Dashboard Application Service Hub (DASH), Apache Tomcat, Apache Web Server, Jetty Web Server, Alcatel-Lucent Service Aware Manager (SAM), Jenkins Integration Suite, Git Source Control, Oracle Database, MySQL, PostgreSQL, H2, IBM DB2, Akka, Kafka, Zookeeper, Hadoop, Ambari (IBM BigInsight), Simple Build Tool (SBT), Apache ANT Build Tool, Docker
+Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), 
+IBM Cognos Software Suite, IBM WebSphere Application Server,
+IBM InfoSphere DataStage, 
+IBM Common User Restful Interface (CURI), 
+IBM Dashboard Application Service Hub (DASH), 
+Apache Tomcat, 
+Apache Web Server, 
+Jetty Web Server, 
+Alcatel-Lucent 5620 Service Aware Manager, 
+Jenkins Integration Suite, 
+Git Source Control, 
+Oracle Relational Database, 
+MySQL, 
+PostgreSQL, 
+H2, 
+IBM DB2, 
+Akka, 
+Kafka, 
+Zookeeper, 
+Hadoop, 
+Ambari,
+IBM Open Platform (IOP),
+Simple Build Tool (SBT), 
+Apache ANT, 
+Docker
 
 # Operation System Experiences
 CentOS, RHEL, Ubuntu
@@ -29,7 +53,8 @@ CentOS, RHEL, Ubuntu
 # Education Details
 Institute Name|Programme|Qualification|Completion Date
 --------------|---------|-------------|---------------
-[Coursera](https://www.coursera.org/)|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](https://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
+[Coursera](https://www.coursera.org/)|[Android App Development Specialization](https://www.coursera.org/specializations/android-app-development)||on-going
+Coursera|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](https://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
 Coursera|[Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)|Click [here](https://www.coursera.org/account/accomplishments/records/rPPWH9QVjAudgQcA) for Course Certificate|June 2014
 Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
 
@@ -37,16 +62,17 @@ Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
 
 ## [Network Performance Insight](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/W3f051a61d14f_4538_b5bc_58a898795a21) (NPI)
 
-NPI is the next generation network performance management software that deploys with the [IBM Netcool Operations Insight](http://www-03.ibm.com/software/products/en/netcool-operations-insight) (NOI) as a full blown Enterprise Network Operation Support System (OSS) solution.
+NPI is the next generation network performance management software that is bundled together with the [IBM Netcool Operations Insight](http://www-03.ibm.com/software/products/en/netcool-operations-insight) (NOI) delivered as an Enterprise Network Operation Support System (OSS) solution.
 
 #### Scope / Responsibility
-1. Product features development / implementation
+1. Product development
 2. Automated End-to-end Built Verification Test (BVT) deployment and maintenance
 
 #### Contribution Highlights
 1. **Product Features Developed / Implemented**
+    + Kafka Schema Registry
     + Storage Optimizer Enhancement
-        * Improved storage pruning policy to execute pruning logic based on file committed timestamp for delayed storage optimization use case
+        * Improved storage file pruning policy to execute pruning logic based on file committed timestamp for delayed storage optimization use case
         * Isolated optimization `Scan` and `Delete` path to make optimization enablement as user configurable parameter
     + SBT Build Code Enhancement
         * Using [`ClasspathJarPlugin`](http://sbt-native-packager.readthedocs.io/en/latest/recipes/longclasspath.html#generate-a-classpath-jar) to resolve classpath ordering and long classpath issues
