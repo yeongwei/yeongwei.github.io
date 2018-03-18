@@ -12,7 +12,7 @@ Approximately 7 years of experience with Software Engineering.
 # Professional Details
 
 Company Name|Team|Position|Start Date|End Date
-------------|----------|--------|----------|--------
+-----------------------|-----------------------|-----------------------|----------|--------
 [Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Development|Staff Software Engineer|March 2014|Present
 Persistent Systems Malaysia Sdn Bhd|Development|Contractor by Origine IT Sdn Bhd|June 2012|March 2014
 [IBM Malaysia Sdn Bhd](https://www.ibm.com/ibm/my/en/)|Development|Contractor by [Origine IT Sdn Bhd](http://www.origineit.com/)|June 2010|June 2012
@@ -54,7 +54,7 @@ RHEL, CentoOs, Ubuntu
 
 # Education Details
 Institute Name|Programme|Qualification|Completion Date
---------------|---------|-------------|---------------
+--------------|-----------------------|-----------------------|-----------------------
 Coursera|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](https://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
 Coursera|[Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)|Click [here](https://www.coursera.org/account/accomplishments/records/rPPWH9QVjAudgQcA) for Course Certificate|June 2014
 Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
@@ -196,7 +196,7 @@ Data management framework based on Java.
 ### JIRA References
 
 ID|Description
---|-----------
+---------|---------------------------------------------------------------------------------------------------------
 [CALCITE-705](https://issues.apache.org/jira/browse/CALCITE-705)|DML in Avatica, and split Execute out from Fetch request
 [CALCITE-666](https://issues.apache.org/jira/browse/CALCITE-666)|Anti-semi-joins against JDBC adapter give wrong results
 [CALCITE-259](https://issues.apache.org/jira/browse/CALCITE-259)|Using sub-queries in CASE statement against JDBC tables generates invalid Oracle SQL
