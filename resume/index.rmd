@@ -7,7 +7,7 @@ output: html_document
 yeongwei2004@yahoo.com  
 https://github.com/yeongwei     
 
-Approximately 6 years of experience with Software Engineering in software development.
+Approximately 7 years of experience with Software Engineering.
 
 # Professional Details
 
@@ -18,7 +18,7 @@ Persistent Systems Malaysia Sdn Bhd|Development|Contractor by Origine IT Sdn Bhd
 [IBM Malaysia Sdn Bhd](https://www.ibm.com/ibm/my/en/)|Development|Contractor by [Origine IT Sdn Bhd](http://www.origineit.com/)|June 2010|June 2012
 
 # Programming Skillsets
-Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming
+Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python
 
 # Product / Software Experiences
 Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), 
@@ -45,7 +45,9 @@ Ambari,
 IBM Open Platform (IOP),
 Simple Build Tool (SBT), 
 Apache ANT, 
-Docker
+Docker<!--, 
+Apache KairosDB,
+Apache Kudu -->
 
 # Operation System Experiences
 RHEL, CentoOs, Ubuntu
@@ -53,20 +55,20 @@ RHEL, CentoOs, Ubuntu
 # Education Details
 Institute Name|Programme|Qualification|Completion Date
 --------------|---------|-------------|---------------
-[Coursera](https://www.coursera.org/)|[Android App Development Specialization](https://www.coursera.org/specializations/android-app-development)||on-going
 Coursera|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](https://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
 Coursera|[Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)|Click [here](https://www.coursera.org/account/accomplishments/records/rPPWH9QVjAudgQcA) for Course Certificate|June 2014
 Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
 
 # Project Details
 
-## [Network Performance Insight](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/W3f051a61d14f_4538_b5bc_58a898795a21) (NPI)
+## [Network Performance Insight](https://www.ibm.com/support/knowledgecenter/en/SSCVHB_1.2.2/product_overview/cnpi_preface_comp_suite1.html) (NPI)
 
-A next generation network performance management software that bundles together with the [IBM Netcool Operations Insight](http://www-03.ibm.com/software/products/en/netcool-operations-insight) (NOI) as an Enterprise Network Operation Support System (OSS) solution.
+A next generation network performance management software that integrates with the [IBM Netcool Operations Insight](http://www-03.ibm.com/software/products/en/netcool-operations-insight) (NOI) as an Enterprise Network Operation Support System (OSS) solution.
 
 #### Scope / Responsibility
 1. Product development
 2. Automated End-to-end Built Verification Test (BVT) deployment and maintenance
+3. Deployment / Services partner support
 
 #### Contribution Highlights
 1. **Product Features Developed / Implemented**
@@ -94,16 +96,16 @@ A next generation network performance management software that bundles together 
 
 ### Umbrella Performance Management
 
-A Telecom industry project in Dubai code named "Umbrella Performance Management". Participated as offshore professional services.
+A Telecom industry project based in Dubai, code named "Umbrella Performance Management". Contributed as offshore professional service engineer.
 
 #### Scope / Responsibility
 1. Migrated Wireless Alarms from Staging to Production environment.
 2. Implemented automated replication of Planned Outage (POHC) data with data enrichment.
-3. Implemented tooling to generate Alarm Definitons for Cognos Cross-launch report facility.
+3. Implemented tooling to generate Alarm Definitons for Cognos Cross-launch report facilities.
 
 #### Contribution Highlights
-1. Wireless Alarm migration code base as candidate to be productized as a GA feature.
-2. Automated Alarm Definition generation reduced manual intervention and improved efficient.
+1. Wireless Alarm migration - productizable candidate.
+2. Automated Alarm Definition generation, reduced manual intervention and improved efficient.
 
 ***
 
@@ -126,7 +128,7 @@ New business opportunities around South-East Asia region with [Globe Telecom](ht
 
 ### [TNPM Data Provider](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10NP6I)
 
-[TNPM](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html) product includes both Wireline and Wireless domains. Each delivers data as separated source. The TNPM Data Provider is a common RESTful API that produce unified data as data federation layer.
+[TNPM](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html) product includes both Wireline and Wireless domains. Each delivers data as separated source. The TNPM Data Provider is a common RESTful API to access a common data federated layer.
 
 #### Scope / Responsibility
 1. Produced design and scope of features.
@@ -141,7 +143,7 @@ New business opportunities around South-East Asia region with [Globe Telecom](ht
 
 ### [TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm_tp13J.doc/pack_rel_notes/ctnpm_relnotes_alcatel-lucent5620sam_logtofile2.1.0.0_tech_pak.html)
 
-ALU SAM is an enterprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the `Performance` (e.g. CPU, MEM) and `Accounting` (e.g. Bandwidth, Utilization) data based on the `FindToFile` method. ALU advocates moving forward for OSS clients to use the `LogToFile` method for greater scalability. IBM InfoSphere DataStage (DataStage) as an interface to SAM for multiple data streams followed by network data modelling in TNPM.
+ALU SAM is an enterprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the `Performance` (e.g. CPU, MEM) and `Accounting` (e.g. Bandwidth, Utilization) data based on the `FindToFile` method. ALU advocates moving forward for OSS clients to use the `LogToFile` method for greater scalability. IBM InfoSphere DataStage (DataStage) as an interface to SAM for multiple data streams followed by network data processing and modelling with TNPM.
 
 #### Scope / Responsibility
 1. Re-designed and re-implemented the [TNPM UBA Bulk Collectors](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.1/bulk_collector/c_tnpm_bcol_intro_tnpmcollectortypes.html) to adapt new data schemas.
@@ -170,7 +172,7 @@ TNPM Cognos deliverables include the All-KPI Report for data availability valida
 
 ### TNPM [Technology Pack](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_tp14D.doc/pack_install_config/ctnpm_tpinstall_introduction_modify_1.html) Solution
 
-TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery, collection model and report definitions for various vendor devices (e.g. Huawei, Cisco, Ericsson).
+TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery, collection model and report definitions according to vendor (e.g. Huawei, Cisco, Ericsson and etc) device specifications.
 
 #### Scope / Responsibility
 1. Developed Technology Packs based for either SNMP or Universal Bulk Adapter (UBA) protocol.
