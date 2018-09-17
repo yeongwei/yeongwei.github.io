@@ -7,8 +7,6 @@ output: html_document
 yeongwei2004@yahoo.com  
 https://github.com/yeongwei     
 
-Approximately 7 years of experience with Software Engineering.
-
 # Professional Details
 
 Company Name|Team|Position|Start Date|End Date
@@ -45,9 +43,13 @@ Ambari,
 IBM Open Platform (IOP),
 Simple Build Tool (SBT), 
 Apache ANT, 
-Docker<!--, 
-Apache KairosDB,
-Apache Kudu -->
+Docker, 
+KairosDB,
+Kudu,
+Cassandra,
+IBM Security Access Manager (ISAM),
+IBM Tivoli Directory Integrator (TDI),
+IBM Security Directory Server (SDS/LDAP)
 
 # Operation System Experiences
 RHEL, CentoOs, Ubuntu
@@ -55,11 +57,23 @@ RHEL, CentoOs, Ubuntu
 # Education Details
 Institute Name|Programme|Qualification|Completion Date
 --------------|-----------------------|-----------------------|-----------------------
-Coursera|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](https://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
+Coursera|[Android App Development Specialization by University of Vanderbilt](https://www.coursera.org/specializations/android-app-development)|Click [here](https://www.coursera.org/account/accomplishments/specialization/HRXPTKKGTLRV) for Course Certificate|June 2018
+Coursera|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](hhttps://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
 Coursera|[Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)|Click [here](https://www.coursera.org/account/accomplishments/records/rPPWH9QVjAudgQcA) for Course Certificate|June 2014
 Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
 
 # Project Details
+
+## [Public Bank Bhd](https://www.pbebank.com/)
+
+Software services engagement for upgrade / integration between ISAM, TDI, SDS and custom Java web application for Access Management.
+
+#### Scope / Responsibility
+1. Integration and configuration activities
+2. Update / fix broken integration points
+
+#### Contribution Highlights
+Project delivery completed on time for production rollout as planned.
 
 ## [Network Performance Insight](https://www.ibm.com/support/knowledgecenter/en/SSCVHB_1.2.2/product_overview/cnpi_preface_comp_suite1.html) (NPI)
 
