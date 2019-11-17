@@ -16,9 +16,9 @@ Persistent Systems Malaysia Sdn Bhd|Development|Contractor by Origine IT Sdn Bhd
 [IBM Malaysia Sdn Bhd](https://www.ibm.com/ibm/my/en/)|Development|Contractor by [Origine IT Sdn Bhd](http://www.origineit.com/)|June 2010|June 2012
 
 # Programming Skillsets
-Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python
+Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python 
 
-# Product / Software Experiences
+# Product / Software / Technology Experiences
 Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), 
 IBM Cognos Software Suite, IBM WebSphere Application Server,
 IBM InfoSphere DataStage, 
@@ -49,10 +49,13 @@ Kudu,
 Cassandra,
 IBM Security Access Manager (ISAM),
 IBM Tivoli Directory Integrator (TDI),
-IBM Security Directory Server (SDS/LDAP)
-
-# Operation System Experiences
-RHEL, CentoOs, Ubuntu
+IBM Security Directory Server (SDS/LDAP),
+IBM Cloud Watson Assistant / Conversation,
+IBM Agile Lifecycle Manager,
+NodeJS,
+Ansible,
+Simple Network Management Protocol (SNMP),
+Flow / Cisco Netflow, Sampled Flow
 
 # Education Details
 Institute Name|Programme|Qualification|Completion Date
@@ -63,6 +66,31 @@ Coursera|[Functional Programming Principles in Scala](https://www.coursera.org/l
 Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
 
 # Project Details
+
+## [TIME dotCom Bhd](https://www.time.com.my/)
+
+1. ETSI MANO solutioning, as Integration Lead, managing a team of 4. 
+
+## [Industrial and Commercial Bank of China](http://www.icbc-ltd.com/icbcltd/en/)
+
+1. Tivoli Network Performance Management (TNMP) services engagement.
+2. Planning and design for additional requirements and network load (1-minute granularity)
+3. Redeployed collection topology for 1-minute Performance metric collections
+
+#### Contribution Highlights
+1. Commited services tasks completed on time.
+
+## [AIA Malaysia](https://www.aia.com.my/en/index.html)
+
+[AskSara](https://www.aia.com.my/en/about-aia/media-centre/press-releases/2017/aia-launches-first-insurance-chatbot-in-malaysia.html) Chatbot migration from existing managed service platform into IBM Clod Watson Assistant / Conversation platform.
+
+#### Scope / Responsibility
+1. Requirements and features gathering / scoping / mapping
+2. Watson Assistant Conversation flow design
+3. SIT and UAT support / mediation. Production rollout and closure
+
+#### Contribution Highlights
+1. Project delivery completed on time for production rollout as planned.
 
 ## [Public Bank Bhd](https://www.pbebank.com/)
 
