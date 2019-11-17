@@ -3,9 +3,9 @@ title: "Yeong Wei, Lai"
 output: html_document
 ---
 
-**6 018 660 1566**  
-yeongwei2004@yahoo.com  
-https://github.com/yeongwei     
+### Software Engineer | OSS | Product Development | Software Services
+
+yeongwei2004@yahoo.com | https://github.com/yeongwei     
 
 # Professional Details
 
