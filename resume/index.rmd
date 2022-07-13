@@ -11,12 +11,17 @@ yeongwei2004@yahoo.com | https://github.com/yeongwei
 
 Company Name|Team|Position|Start Date|End Date
 -----------------------|-----------------------|-----------------------|----------|--------
-[Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Development|Staff Software Engineer|March 2014|Present
-Persistent Systems Malaysia Sdn Bhd|Development|Contractor by Origine IT Sdn Bhd|June 2012|March 2014
-[IBM Malaysia Sdn Bhd](https://www.ibm.com/ibm/my/en/)|Development|Contractor by [Origine IT Sdn Bhd](http://www.origineit.com/)|June 2010|June 2012
+[Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Software Services|Project Lead|September 2020|Present
+[Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Software Services|Staff Software Engineer|2018|2020
+[Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Development|Staff Software Engineer|March 2014|2018
+[Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Development|Contractor Staff|June 2012|March 2014
+[IBM Malaysia Sdn Bhd](https://www.ibm.com/ibm/my/en/)|Development|Contractor Staff|June 2010|June 2012
+
+***
 
 # Programming Skillsets
 Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python 
+***
 
 # Product / Software / Technology Experiences
 Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), 
@@ -55,27 +60,49 @@ IBM Agile Lifecycle Manager,
 NodeJS,
 Ansible,
 Simple Network Management Protocol (SNMP),
-Flow / Cisco Netflow, Sampled Flow
+Flow / Cisco Netflow, Sampled Flow,
+Tivoli/Netcool OMNIbus,
+Tivoli/Netcool Impact
 
-# Education Details
-Institute Name|Programme|Qualification|Completion Date
---------------|-----------------------|-----------------------|-----------------------
-Coursera|[Android App Development Specialization by University of Vanderbilt](https://www.coursera.org/specializations/android-app-development)|Click [here](https://www.coursera.org/account/accomplishments/specialization/HRXPTKKGTLRV) for Course Certificate|June 2018
-Coursera|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](hhttps://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
-Coursera|[Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)|Click [here](https://www.coursera.org/account/accomplishments/records/rPPWH9QVjAudgQcA) for Course Certificate|June 2014
-Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
+***
 
 # Project Details
 
+## [U Mobile Sdn Bhd]
+
+#### Scope / Responsibility
+
+#### Contribution Highlights
+
+## [Verizon]
+
+#### Scope / Responsibility
+
+#### Contribution Highlights
+
 ## [TIME dotCom Bhd](https://www.time.com.my/)
 
-1. ETSI MANO solutioning, as Integration Lead, managing a team of 4. 
+[TIME dotCom Bhd](https://www.time.com.my/) (TIME) is a telecommunication service provider company in Malaysia that has strong presence in both global and domestic markets. Domestically, TIME is famous for the consumer and enterprise leased lines products. In this project, TIME required a fully automated, dynamic, end-to-end Network Function Virtualization (NFV) service lifecycle management and network orchestration (MANO) solution for the enterprise leased line products
+
+#### Scope / Responsibility
+
+1. As Integration Lead, leading a team of 4.
+2. Conduct requirement gathering with customer.
+3. Solution Design and implementation, e2e including closed loop integration with Service Assurance Platform
+
+#### Contribution Highlights
+1. Project delivered on time.
+2. Project had been chosen as case study and press release [here](https://www.ibm.com/case-studies/time-dotcom/)
 
 ## [Industrial and Commercial Bank of China](http://www.icbc-ltd.com/icbcltd/en/)
 
-1. Tivoli Network Performance Management (TNMP) services engagement.
-2. Planning and design for additional requirements and network load (1-minute granularity)
-3. Redeployed collection topology for 1-minute Performance metric collections
+[Industrial and Commercial Bank of China](http://www.icbc-ltd.com/icbcltd/en/) (ICBC) is one of the top tier banks in China. ICBC has been using Tivoli Network Performance Management (TNPM) for network monitoring. ICBC has roadmap for improving network supervision, TNPM is required to monitor the network at a lower granularity 
+
+#### Scope / Responsibility
+
+1. Tivoli Network Performance Management (TNPM) services engagement.
+2. Planning and solution design for TNPM to support multiple granularity workloadw (including 1-minute granularity for critical network elements)
+3. Redeployed colletor topology for supporting 1-minute Performance metric collections
 
 #### Contribution Highlights
 1. Commited services tasks completed on time.
@@ -151,7 +178,7 @@ A Telecom industry project based in Dubai, code named "Umbrella Performance Mana
 
 ***
 
-### TNPM Wireline Prove-Of-Concept (POC)
+### TNPM Wireline Technical Pre-Sale
 
 New business opportunities around South-East Asia region with [Globe Telecom](https://www.globe.com.ph/) (Philippines) and [TrueMove](http://truemoveh.truecorp.co.th/?ln=en) (Thailand).
 
@@ -228,6 +255,18 @@ TNPM is capable of processing data collected from network elements with various 
 
 #### Contribution Highlights
 1. Produced various General Availability (GA) variant Technology Packs.
+
+***
+
+# Education Details
+Institute Name|Programme|Qualification|Completion Date
+--------------|-----------------------|-----------------------|-----------------------
+Coursera|[Android App Development Specialization by University of Vanderbilt](https://www.coursera.org/specializations/android-app-development)|Click [here](https://www.coursera.org/account/accomplishments/specialization/HRXPTKKGTLRV) for Course Certificate|June 2018
+Coursera|[Data Science Specialization by Johns Hopkins University](https://www.coursera.org/specializations/jhu-data-science)|Click [here](hhttps://www.coursera.org/account/accomplishments/specialization/UE58SKEPR4N2) for Course Certificate|April 2016
+Coursera|[Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)|Click [here](https://www.coursera.org/account/accomplishments/records/rPPWH9QVjAudgQcA) for Course Certificate|June 2014
+Tunku Abdul Rahman College|Electronic Engineering|Advanced Diploma|Jan 2010
+
+***
 
 # Open Source Software Contributions
 
