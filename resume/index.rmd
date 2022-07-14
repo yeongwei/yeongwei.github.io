@@ -3,7 +3,7 @@ title: "Yeong Wei, Lai"
 output: html_document
 ---
 
-### Software Engineer | OSS | Product Development | Software Services
+### Software Engineer | Software Development | Software Services
 
 yeongwei2004@yahoo.com | https://github.com/yeongwei     
 
@@ -68,19 +68,39 @@ Tivoli/Netcool Impact
 
 # Project Details
 
-## [U Mobile Sdn Bhd]
+## [U Mobile Sdn Bhd](https://www.u.com.my/)
+
+***2021 - Current***
+
+[U Mobile Sdn Bhd (U Mobile)](https://www.u.com.my/) is a one of the big four telecommunication service provider company in Malaysia. U Mobile wants to embark on a digital transformation journey for network operation towards a zero-touch-autonomous network operation environment. U Mobile had chosen [IBM Watson AIOps](https://www.ibm.com/watson/aiops-overview/) which includes [Telco Network Cloud Manager for Performance (TNC-P)](https://www.ibm.com/docs/en/tncm-p/1.4.2) as the solution for this roadmap.
 
 #### Scope / Responsibility
 
-#### Contribution Highlights
+1. Technical presales and sales engagements. Request-for-Proposal (RFP) Solution Compliance vetting. E2e Solution proposal drafting. Solution presentation. Technical engagement with customer
+2. RFP Awarded, currently taking up the Solution Architect role 
 
-## [Verizon]
+
+## [Verizon Communications](https://www.verizon.com/)
+
+***2021***
+
+[Verizon Communications (Verizon)](https://www.verizon.com/) is a tier-1 telecommunication service provider company in the United States of America. Verizon wanted to refresh the existing Service Assurance platform with [IBM Watson AIOps](https://www.ibm.com/watson/aiops-overview/) which includes [Telco Network Cloud Manager for Performance (TNC-P)](https://www.ibm.com/docs/en/tncm-p/1.4.2)
+
 
 #### Scope / Responsibility
+1. Offshore Services leading on TNC-P deployment strategy
+2. Work closely with deployment engineers on various TNC-P deployment issues
+3. Work closely with TNC-P product development teams on features required by customer
+4. Attend regular calls with customer for closing issues
+5. Lead customization solution discussion with customer
 
 #### Contribution Highlights
+
+1. Deployment was completed on time and Verizon could meet the planned cut of date for the existing Service Assurance Platform with minimal operation interruption
 
 ## [TIME dotCom Bhd](https://www.time.com.my/)
+
+***2020***
 
 [TIME dotCom Bhd](https://www.time.com.my/) (TIME) is a telecommunication service provider company in Malaysia that has strong presence in both global and domestic markets. Domestically, TIME is famous for the consumer and enterprise leased lines products. In this project, TIME required a fully automated, dynamic, end-to-end Network Function Virtualization (NFV) service lifecycle management and network orchestration (MANO) solution for the enterprise leased line products
 
@@ -96,6 +116,8 @@ Tivoli/Netcool Impact
 
 ## [Industrial and Commercial Bank of China](http://www.icbc-ltd.com/icbcltd/en/)
 
+***2019***
+
 [Industrial and Commercial Bank of China](http://www.icbc-ltd.com/icbcltd/en/) (ICBC) is one of the top tier banks in China. ICBC has been using Tivoli Network Performance Management (TNPM) for network monitoring. ICBC has roadmap for improving network supervision, TNPM is required to monitor the network at a lower granularity 
 
 #### Scope / Responsibility
@@ -109,6 +131,8 @@ Tivoli/Netcool Impact
 
 ## [AIA Malaysia](https://www.aia.com.my/en/index.html)
 
+***2019***
+
 [AskSara](https://www.aia.com.my/en/about-aia/media-centre/press-releases/2017/aia-launches-first-insurance-chatbot-in-malaysia.html) Chatbot migration from existing managed service platform into IBM Clod Watson Assistant / Conversation platform.
 
 #### Scope / Responsibility
@@ -121,6 +145,8 @@ Tivoli/Netcool Impact
 
 ## [Public Bank Bhd](https://www.pbebank.com/)
 
+***2018***
+
 Software services engagement for upgrade / integration between ISAM, TDI, SDS and custom Java web application for Access Management.
 
 #### Scope / Responsibility
@@ -128,9 +154,11 @@ Software services engagement for upgrade / integration between ISAM, TDI, SDS an
 2. Update / fix broken integration points
 
 #### Contribution Highlights
-Project delivery completed on time for production rollout as planned.
+1. Project delivery completed on time for production rollout as planned.
 
 ## [Network Performance Insight](https://www.ibm.com/support/knowledgecenter/en/SSCVHB_1.2.2/product_overview/cnpi_preface_comp_suite1.html) (NPI)
+
+***2016 - 2018***
 
 A next generation network performance management software that integrates with the [IBM Netcool Operations Insight](http://www-03.ibm.com/software/products/en/netcool-operations-insight) (NOI) as an Enterprise Network Operation Support System (OSS) solution.
 
@@ -165,6 +193,8 @@ A next generation network performance management software that integrates with t
 
 ### Umbrella Performance Management
 
+***2015 - 2016***
+
 A Telecom industry project based in Dubai, code named "Umbrella Performance Management". Contributed as offshore professional service engineer.
 
 #### Scope / Responsibility
@@ -179,6 +209,8 @@ A Telecom industry project based in Dubai, code named "Umbrella Performance Mana
 ***
 
 ### TNPM Wireline Technical Pre-Sale
+
+***2015 - 2016***
 
 New business opportunities around South-East Asia region with [Globe Telecom](https://www.globe.com.ph/) (Philippines) and [TrueMove](http://truemoveh.truecorp.co.th/?ln=en) (Thailand).
 
@@ -197,6 +229,8 @@ New business opportunities around South-East Asia region with [Globe Telecom](ht
 
 ### [TNPM Data Provider](https://www-304.ibm.com/software/brandcatalog/ismlibrary/details?catalog.label=1TW10NP6I)
 
+***2015***
+
 [TNPM](https://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_1.4_kc.doc/quick_start/tnpm_1.4_quick_start_guide.html) product includes both Wireline and Wireless domains. Each delivers data as separated source. The TNPM Data Provider is a common RESTful API to access a common data federated layer.
 
 #### Scope / Responsibility
@@ -210,7 +244,9 @@ New business opportunities around South-East Asia region with [Globe Telecom](ht
 
 ***
 
-### [TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm_tp13J.doc/pack_rel_notes/ctnpm_relnotes_alcatel-lucent5620sam_logtofile2.1.0.0_tech_pak.html)
+### [TNPM Alcatel-Lucent (ALU) 5620 SAMLogToFile](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.3.2/com.ibm.tnpm_tp13J.doc/pack_rel_notes/ctnpm_relnotes_alcatel-lucent5620sam_logtofile2.1.0.0_tech_pak.html)
+
+***2012 - 2014***
 
 ALU SAM is an enterprise end-to-end, multi-domain network and service management software. The former TNPM solution process both the `Performance` (e.g. CPU, MEM) and `Accounting` (e.g. Bandwidth, Utilization) data based on the `FindToFile` method. ALU advocates moving forward for OSS clients to use the `LogToFile` method for greater scalability. IBM InfoSphere DataStage (DataStage) as an interface to SAM for multiple data streams followed by network data processing and modelling with TNPM.
 
@@ -228,6 +264,8 @@ ALU SAM is an enterprise end-to-end, multi-domain network and service management
 
 ### TNPM Cognos All-KPI Report Automation
 
+***2010 - 2012***
+
 TNPM Cognos deliverables include the All-KPI Report for data availability validation purposes. However it was costly to produce. An automation tool written to improve cost efficiency.
 
 #### Scope / Responsibility
@@ -240,6 +278,8 @@ TNPM Cognos deliverables include the All-KPI Report for data availability valida
 ***
 
 ### TNPM [Technology Pack](http://www.ibm.com/support/knowledgecenter/SSBNJ7_1.4.0/com.ibm.tnpm_tp14D.doc/pack_install_config/ctnpm_tpinstall_introduction_modify_1.html) Solution
+
+***2010 - 2012***
 
 TNPM is capable of processing data collected from network elements with various protocols. Technology Packs provide the discovery, collection model and report definitions according to vendor (e.g. Huawei, Cisco, Ericsson and etc) device specifications.
 
