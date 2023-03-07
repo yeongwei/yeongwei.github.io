@@ -18,7 +18,7 @@ Company Name|Team|Position|Start Date|End Date
 [Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Software Services|Project Lead|2020|2022
 [Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Software Services|Staff Software Engineer|2018|2020
 [Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Development|Staff Software Engineer|March 2014|2018
-[Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Development|Contractor Staff|June 2012|March 2014
+[Persistent Systems Malaysia Sdn Bhd](https://star.talentcorp.com.my/employer/search/view/709) (PSL)|Development & Software Services|Contractor Staff|June 2012|March 2014
 [IBM Malaysia Sdn Bhd](https://www.ibm.com/ibm/my/en/)|Development|Contractor Staff|June 2010|June 2012
 
 ***
