@@ -8,7 +8,7 @@ output:
 
 ### Architect | Software Professional Services | Service Assurance
 
-yeongwei2004@yahoo.com | https://github.com/yeongwei     
+yeongwei2004@yahoo.com | https://www.linkedin.com/in/yeong-wei-116v/ | https://github.com/yeongwei     
 
 # Professional Details
 
@@ -29,16 +29,21 @@ Company Name|Team|Position|Start Date|End Date
 
 ***2022 - Current***
 
-[U Mobile Sdn Bhd (U Mobile)](https://www.u.com.my/) is a one of the big four telecommunication service provider company in Malaysia. U Mobile wants to embark on a digital transformation journey for network operation towards a zero-touch-autonomous network operation environment. U Mobile had chosen [IBM Watson AIOps](https://www.ibm.com/watson/aiops-overview/) which includes [Telco Network Cloud Manager for Performance (TNC-P)](https://www.ibm.com/docs/en/tncm-p/1.4.2) as the solution for this transformation roadmap.
+[U Mobile Sdn Bhd (U Mobile)](https://www.u.com.my/) is a one of the large telecommunication service provider companies in Malaysia. U Mobile decided to embark on a digital transformation journey for network service operation towards a zero-touch-autonomous model. U Mobile had chosen [IBM Watson AIOps](https://www.ibm.com/watson/aiops-overview/) which includes [Telco Network Cloud Manager for Performance (TNC-P)](https://www.ibm.com/docs/en/tncm-p/1.4.2) as the solution for this transformation roadmap
 
-E2E delivery including Hardware (Network Equipment, Compute and Storage), Visualization Platforms, Service Assurance Software, Solution Customization and Operation Maintenance.
+E2E delivery including Hardware (Network Equipment, Compute, Storage, Firewall, Load-balancer), Virtualization Platforms, Service Assurance Software, Solution Customization, Operation and Maintenance Support Services
 
-Key Components include Fault Management, Performance Management, Topology Management and Trouble Ticketing System.
+Key Components include Event Management, Performance Management, Topology Management and Trouble Ticketing System
 
 #### Scope / Responsibility
 
 1. Technical presales and sales engagements. Request-for-Proposal (RFP) Solution Compliance vetting. E2e Solution proposal drafting. Solution presentation. Technical engagement with customer
-2. RFP Awarded mid Year 2022, currently as Technical Architect for deployment with leading a team of 7 Services Engineers
+2. RFP Awarded mid Year 2022, assigned as Technical Architect for deployment, leading a team of 7 Services Engineers
+3. Post Go-live Operation and Maintenance support Services. Drive new Use Cases with Customer
+
+#### Contribution Highlights
+
+1. Go-live successfully
 
 
 ## [Verizon Communications](https://www.verizon.com/)
@@ -293,6 +298,9 @@ IBM Tivoli Directory Integrator (TDI),
 IBM Security Directory Server (SDS/LDAP),
 IBM Cloud Watson Assistant / Conversation,
 IBM Agile Lifecycle Manager,
+IBM Cloud Platform,
+Kurbenetes,
+Podman,
 Red Hat OpenStack Platform,
 Red Hat Ceph Storage,
 Red Hat OpenShift Container Platform,
