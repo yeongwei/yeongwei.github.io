@@ -39,7 +39,8 @@ Key Components include Event Management, Performance Management, Topology Manage
 
 1. Technical presales and sales engagements. Request-for-Proposal (RFP) Solution Compliance vetting. E2e Solution proposal drafting. Solution presentation. Technical engagement with customer
 2. RFP Awarded mid Year 2022, assigned as Technical Architect for deployment, leading a team of 7 Services Engineers
-3. Post Go-live Operation and Maintenance support Services. Drive new Use Cases with Customer
+3. Post Go-live Accelerated Support Services
+4. Drive new Use Cases with Customer
 
 #### Contribution Highlights
 
