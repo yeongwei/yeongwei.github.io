@@ -8,7 +8,10 @@ output:
 
 ### Architect | Software Professional Services | Service Assurance
 
-yeongwei2004@yahoo.com | https://www.linkedin.com/in/yeong-wei-116v/ | https://github.com/yeongwei     
+Mobile: [+6018-660 1566](https://wa.me/186601566) \
+E-mail: yeongwei2004@yahoo.com \
+LinkedIn: https://www.linkedin.com/in/yeong-wei-116v/ \
+GitHub: https://github.com/yeongwei
 
 # Professional Details
 
@@ -24,6 +27,24 @@ Company Name|Team|Position|Start Date|End Date
 ***
 
 # Project Details
+
+## Vodafone Kabel Deutschland
+
+***2024 Q1***
+
+Vodafone Kabel Deutschland (The Customer), a prominent operator in the cable business within Germany is heavily invested in Amazon Web Service Cloud offerings as part of the infrastructure for delivering media related services to end consumers
+
+This was a collaboration with Business Partner, [TATA Consultancy Services](https://www.tcs.com/) which includes Consultants from Europe and APAC regions to conduct a Proof-of-Concept (POC) using [IBM Watson AIOps](https://www.ibm.com/watson/aiops-overview/) for Service Management Use Cases
+
+#### Scope / Responsibility
+
+1. Map Customer aspirations to Product / Solution Capabilities 
+2. Work closely with on site Consultants to devise solution plans
+3. Technical leadership to Engineers for POC system setup
+
+#### Contribution Highlights
+
+1. POC completed in time with expected Use cases presented to The Customer successfully
 
 ## [U Mobile Sdn Bhd](https://www.u.com.my/)
 

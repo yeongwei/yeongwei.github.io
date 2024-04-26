@@ -1,0 +1,20 @@
+---
+title: "Yeong Wei, Lai"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+### Architect | Software Professional Services | Service Assurance
+
+Mobile: [+6018-660 1566](https://wa.me/186601566) \
+E-mail: yeongwei2004@yahoo.com \
+LinkedIn: https://www.linkedin.com/in/yeong-wei-116v/ \
+GitHub: https://github.com/yeongwei
+
+---
+
+Hello world!
+
+---
