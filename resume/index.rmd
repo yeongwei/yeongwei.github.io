@@ -6,7 +6,7 @@ output:
   word_document: default
 ---
 
-### Architect | Software Professional Services | Service Assurance
+### Architect | Software Professional Services | OSS | MANO
 
 Mobile: [+6018-660 1566](https://wa.me/186601566) \
 E-mail: yeongwei2004@yahoo.com \
