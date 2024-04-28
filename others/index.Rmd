@@ -2,43 +2,29 @@
 
 ## 1. Please briefly describe why you’re interested in applying for this position and what your motivation is for employment change.
 
-I want to position myself well to capitalize the next big opportunity, which I believe the Green Energy sector can enable me to achieve that. In view of the 5G roll out, with capabilities that requires massive reliable bandwidths; Increasing of Computing Power demands with the advent of AI driven Analytics capabilities; Increasing number of Internet Users, globally stood at 66%; Increasing capabilities of producing more powerful computing Chips with names like Nvidia and ASML; All these advancements are denominated by Energy. \
-\
-Meantime, the push for greater adoption of Environmental, Social, Governance (ESG) Frameworks on Enterprise gave rise to demand for greener data center and other operation support ecosystems. Such move can be witness with the massive hyperscaler like Google, AWS, Azure and more. \
-\
-These are my rationales for eagerly to move into the Energy Industry and being in the Green Energy space will give me an upper hand advantage. Orsted has rooted DNA in Energy, transitioned from fossil to wind. This itself is a testament of Orsted’s impeccable capability. I believe Orsted is well position to capitalize opportunities in such landscape. Hence Orsted became my next intended move. \
-\
+1. To capitalize the next big opportunity within Energy Industry
+2. The world has become very energy demanding with 5G, AI, increasing internet users and the use advanced Chips, all these require more power sustain
+3. More Enterprise to adopt ESG practices and increase demands in greener datacenters
+4. Orsted with rooted DNA in Energy that transitioned from fossil to wind is well position to capitalize these green energy opportunities
+5. Hence Orsted became my next intended move
 
 ## 2. Please describe how your current experiences, skillsets, and interests are transferrable into this role.
 
-My current practice includes a lot of cross-functional and cross-domain engagements with Business Sponsors, End Users, Operation Support, Development Engineers, etc. which requires me to manage communications and expectations effectively. \
-\
-I work on various architectural and solution adoption and improvements cycles across different environment, landscape and technology which requires me to design solution patterns which are relevant to the bigger Enterprise Objectives. I lead the deployment / implementation teams to ensure implementation are effective and reliably and I review feedback accordingly to include into architectural cycles.\
-\
-With my hands-on capability and passion in Technology, I am comfortable with working on new Technology and contented in keeping legacy Technology / System relevant. \
-\
-As such I see myself bringing Thought Leadership, Technical Leadership and Pragmatic Methods into this role. \
-\
+1. My current role includes cross-functional and cross-domain engagements with various stakeholders
+2. Constantly work on different Architectural cycles to meet Enterprise Objectives
+3. Lead a team of Engineers to implementation solution effectively and reliably
+4. Comfortable working with new Technology and contented in keeping legacy Technology relevant
+5. I bring Thought Leadership, Technical Leadership and Pragmatic Methods into this role
 
 ## 3. Please describe your architecture experience, focusing on application runway and strategy.
 
-1. Understanding Key Objectives from Business Owners and the existing landscape to identify incremental valuable deliveries. \
-2. Translate key information into relevant artefacts such as Context Diagram, Current vs To-be Diagram, System Diagram, Component Diagram and API / Specification Document. \
-3. Conduct Review sessions with Business Owners for Objectives alignment and setting expectations. \
-4. Conduct Review with Architecture Board for Road map / Architecture Standard alignments. \
-5. Communicate with other teams if there are any dependencies such as API, Infrastructure and Security. \
-5. If new Technology is required, then produce evaluation plan with relevant qualitative and quantitative measurements and targets. \
-6. Develop prototype. \
-7. Ensure DevSecOps best practices are included. \
-8. Satisfactory level of Source Code hygiene and Version Control. \
-9. Sufficient Test Code to catch error as early as possible. \
-10. Regular Code Scan for Irregularities and Vulnerability detection. \
-11. Reasonable Continuous Delivery and Continuous Deployment Policies, such as A/B or BlueGreen Deployments. \
-13. Track Architectural changes adequately with trace. \
-14. Keep Development Team Members up to date with the latest Architectural Design changes through daily scrums. \
-15. Work closely with Scrum Team with Sprint Plannings such as prioritization and dependency identifications to ensure no deadlock. \
-16. Ensure every end of Sprint has functional demo candidate for feedback / improvements. \
-17. Raise potential risk early and devise mitigation plan. \
+1. Review Key Objectives from Business Owners and design incremental solutions
+2. Translate key information into artefacts and continuously revisit
+3. Track Architectural changes adequately and keep stakeholders updated
+4. Design elastic Architecture
+5. Constantly review DevSecOps best practices and relevant compliance requirements
+6. Use Closed-loop CI/CD Pipelines to manage Build, Test and Deployment
+7. Communicate infrastructure requirements early on
 
 ## 4. Please describe how you expect this role to be
 
@@ -51,10 +37,10 @@ As such I see myself bringing Thought Leadership, Technical Leadership and Pragm
 ## 5. Please list down relevant certifications or credentials that you have obtained that could support you in this role.
 
 1. [In progress] AWS Certified Solution Architect Associate (SAA-C03)
-2. AWS Cloud Quest - Clod Practitioner Badge (https://www.credly.com/badges/3dbecb5f-b9b2-48f7-8382-feb09870295d/linked_in_profile)
-3. Android Application Specialization (https://www.coursera.org/account/accomplishments/specialization/certificate/HRXPTKKGTLRV)
-4. Data Science Specialization (https://www.coursera.org/account/accomplishments/specialization/certificate/UE58SKEPR4N2)
-5. Scala Functional Programming (https://www.coursera.org/account/accomplishments/certificate/4XZH3NTUGP)
+2. AWS Cloud Quest - Clod Practitioner Badge 
+3. Android Application Specialization 
+4. Data Science Specialization 
+5. Scala Functional Programming
 
 # Infrastructure Architect
 
@@ -68,57 +54,14 @@ As above.
 
 ## 3. Please describe your architecture experience, especially in infrastructure area.
 
-My current practice includes working with Private and Hybrid Cloud environments. I provide Thought and Technical leaderships towards activities related to Day 0 (Design / Planning), Day 1 (Install / Provision) and Day 2 (Operation / Maintenance) of a specific Delivery. My coverage include both Application and Infrastructure (Hardware, Virtualization, Compute, Storage and Networking). The infrastructure pieces are provided by respective Vendors based on Project Specifications and I work closely with them to ensure alignment with the Architecture Design and Business Objectives.\
-\
-I usually cover the following activities.\
-\
-At Day 0, 
-1. Define Compute (CPU / MEM) requirements based on Application needs and growth projection. \
-2. Define Storage requirements (Block / File / Object / Replications / Backup) based on Application needs and growth projection. \
-3. Define Number of Virtual Machines required include relevant Operating System flavors. \
-4. Define Number of Tenancy (e.g., DEV, Staging, Production) Required. \
-5. Define the Networking Requirements which includes Number of Subnets and Size required; Bandwidths at Server and Network Interfaces; Routing for LAN and WAN; Firewall for Application ingress and egress; Application Load balancing. \
-6. Define the monitoring methodology for Hardware, Compute, Storage and Networking. \
-7. Define High Availability profiles. \
-8. Consolidate various Architecture Diagrams for end-to-end perspective. \
-9. Work closely with Project Manager, Services Engineers and Vendor to ensure plan, activities and dependencies are clearly communicated. \
-\
-At Day 1,\
-10. Work closely with Project Manager to ensure deliveries and dependencies are fulfilled.\ 
-11. Relevant sign-offs are acquired. \
-12. Relevant handover activities are conducted. \
-\
-At Day 2,\
-13. Review Operational challenges and devise solution.\
-14. Review new Operational circumstances and device solution.\
-15. Review relevant infrastructure incremental update for provisioning. \
-\
-Following are my experience with Products / Tools relevant to Infrastructure.\
-\
-1. Dell PowerEdge Server and Networking Equipment\
-2. Red Hat OpenStack Platform\
-3. Red Hat OpenShift Container Platform\
-4. Red Hat Ceph Storage\
-5. Fortigate Firewall\
-6. Kemp Load Balancer\
-7. NGINX\
-8. Kubernetes\
-9. Istio\
-10. Jenkins\
-11. GitHub / GitLab\
-12. Ansible\
-13. Prometheus\
-14. Grafana\
-\
+My current practice includes working with Private and Hybrid Cloud environments. I provide Thought and Technical leaderships for activities related to Day 0 (Design / Planning), Day 1 (Install / Provision) and Day 2 (Operation / Maintenance). My coverage includes Application and Infrastructure (Hardware, Virtualization, Compute, Storage and Networking). I collaborate with Operations to understand their challenges and revisit Architecture and provide solution accordingly
 
 ## 4. Please describe how you see the role you’re applying to.
 
-1. Design Infrastructure with relevant Products / Tools to meet Business Objectives and Application Requirements. \
-2. Work closely with Application Architects to ensure Application are Build and Deploy in accordance to the Infrastructure landscape. \
-3. Attend to Infrastructure challenges / issues and devise solution. \
-4. Keeping infrastructure Architecture up to date with refinements and keep all stakeholders up to date. \
-5. Ensure infrastructure Architecture is up to date with latest compliance policies. \
-6. Recommend industry best practices to relevant stakeholders. \
+1. Design Infrastructure with relevant Products / Tools to meet Business Objectives and Application Requirements
+2. Work closely with Application Architects to ensure Application are Build and Deploy in accordance to the Infrastructure landscape
+3. Attend to Infrastructure challenges / issues and devise solution
+4. Keeping infrastructure Architecture up to date with latest compliance policies and industry best practices 
 
 ## 5. Please list down relevant certifications or credentials that you have obtained that could support you in this role.
 

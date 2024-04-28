@@ -5,16 +5,19 @@
 \documentclass[
 ]{article}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -66,7 +69,7 @@
 \fi
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={Yeong Wei, Lai},
   hidelinks,
@@ -79,13 +82,16 @@
 \begin{document}
 \maketitle
 
-\hypertarget{software-engineer-software-development-software-services}{%
-\subsubsection{Software Engineer \textbar{} Software Development
-\textbar{} Software
-Services}\label{software-engineer-software-development-software-services}}
+\hypertarget{architect-software-professional-services-oss-mano}{%
+\subsubsection{Architect \textbar{} Software Professional Services
+\textbar{} OSS \textbar{}
+MANO}\label{architect-software-professional-services-oss-mano}}
 
-\href{mailto:yeongwei2004@yahoo.com}{\nolinkurl{yeongwei2004@yahoo.com}}
-\textbar{} \url{https://github.com/yeongwei}
+Mobile: \href{https://wa.me/186601566}{+6018-660 1566}\\
+E-mail:
+\href{mailto:yeongwei2004@yahoo.com}{\nolinkurl{yeongwei2004@yahoo.com}}\\
+LinkedIn: \url{https://www.linkedin.com/in/yeong-wei-116v/}\\
+GitHub: \url{https://github.com/yeongwei}
 
 \hypertarget{professional-details}{%
 \section{Professional Details}\label{professional-details}}
@@ -96,7 +102,7 @@ Services}\label{software-engineer-software-development-software-services}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2644}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1149}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.0920}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 Company Name
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -108,11 +114,16 @@ Start Date
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 End Date
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
+\href{https://star.talentcorp.com.my/employer/search/view/709}{Persistent
+Systems Malaysia Sdn Bhd} (PSL) & Software Services & Architect & 2022 &
+Present \\
 \href{https://star.talentcorp.com.my/employer/search/view/709}{Persistent
 Systems Malaysia Sdn Bhd} (PSL) & Software Services & Project Lead &
-September 2020 & Present \\
+2020 & 2022 \\
 \href{https://star.talentcorp.com.my/employer/search/view/709}{Persistent
 Systems Malaysia Sdn Bhd} (PSL) & Software Services & Staff Software
 Engineer & 2018 & 2020 \\
@@ -124,59 +135,81 @@ Systems Malaysia Sdn Bhd} (PSL) & Development & Contractor Staff & June
 2012 & March 2014 \\
 \href{https://www.ibm.com/ibm/my/en/}{IBM Malaysia Sdn Bhd} &
 Development & Contractor Staff & June 2010 & June 2012 \\
-\bottomrule()
 \end{longtable}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{programming-skillsets}{%
-\section{Programming Skillsets}\label{programming-skillsets}}
-
-Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting,
-SQL, R Programming, Python ***
-
-\hypertarget{product-software-technology-experiences}{%
-\section{Product / Software / Technology
-Experiences}\label{product-software-technology-experiences}}
-
-Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), IBM
-Cognos Software Suite, IBM WebSphere Application Server, IBM InfoSphere
-DataStage, IBM Common User Restful Interface (CURI), IBM Dashboard
-Application Service Hub (DASH), Apache Tomcat, Apache Web Server, Jetty
-Web Server, Alcatel-Lucent 5620 Service Aware Manager, Jenkins
-Integration Suite, Git Source Control, Oracle Relational Database,
-MySQL, PostgreSQL, H2, IBM DB2, Akka, Kafka, Zookeeper, Hadoop, Ambari,
-IBM Open Platform (IOP), Simple Build Tool (SBT), Apache ANT, Docker,
-KairosDB, Kudu, Cassandra, IBM Security Access Manager (ISAM), IBM
-Tivoli Directory Integrator (TDI), IBM Security Directory Server
-(SDS/LDAP), IBM Cloud Watson Assistant / Conversation, IBM Agile
-Lifecycle Manager, NodeJS, Ansible, Simple Network Management Protocol
-(SNMP), Flow / Cisco Netflow, Sampled Flow, Tivoli/Netcool OMNIbus,
-Tivoli/Netcool Impact
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \hypertarget{project-details}{%
 \section{Project Details}\label{project-details}}
 
+\hypertarget{vodafone-kabel-deutschland}{%
+\subsection{Vodafone Kabel
+Deutschland}\label{vodafone-kabel-deutschland}}
+
+\textbf{\emph{2024 Q1}}
+
+Vodafone Kabel Deutschland (The Customer), a prominent operator in the
+cable business within Germany is heavily invested in Amazon Web Service
+Cloud offerings as part of the infrastructure for delivering media
+related services to end consumers
+
+This was a collaboration with Business Partner,
+\href{https://www.tcs.com/}{TATA Consultancy Services} which includes
+Consultants from Europe and APAC regions to conduct a Proof-of-Concept
+(POC) using \href{https://www.ibm.com/watson/aiops-overview/}{IBM Watson
+AIOps} for Service Management Use Cases
+
+\hypertarget{scope-responsibility}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Map Customer aspirations to Product / Solution Capabilities
+\item
+  Work closely with on site Consultants to devise solution plans
+\item
+  Technical leadership to Engineers for POC system setup
+\end{enumerate}
+
+\hypertarget{contribution-highlights}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  POC completed in time with expected Use cases presented to The
+  Customer successfully
+\end{enumerate}
+
 \hypertarget{u-mobile-sdn-bhd}{%
 \subsection{\texorpdfstring{\href{https://www.u.com.my/}{U Mobile Sdn
 Bhd}}{U Mobile Sdn Bhd}}\label{u-mobile-sdn-bhd}}
 
-\textbf{\emph{2021 - Current}}
+\textbf{\emph{2022 - Current}}
 
 \href{https://www.u.com.my/}{U Mobile Sdn Bhd (U Mobile)} is a one of
-the big four telecommunication service provider company in Malaysia. U
-Mobile wants to embark on a digital transformation journey for network
-operation towards a zero-touch-autonomous network operation environment.
-U Mobile had chosen
-\href{https://www.ibm.com/watson/aiops-overview/}{IBM Watson AIOps}
-which includes \href{https://www.ibm.com/docs/en/tncm-p/1.4.2}{Telco
-Network Cloud Manager for Performance (TNC-P)} as the solution for this
-roadmap.
+the large telecommunication service provider companies in Malaysia. U
+Mobile decided to embark on a digital transformation journey for network
+service operation towards a zero-touch-autonomous model. U Mobile had
+chosen \href{https://www.ibm.com/watson/aiops-overview/}{IBM Watson
+AIOps} which includes
+\href{https://www.ibm.com/docs/en/tncm-p/1.4.2}{Telco Network Cloud
+Manager for Performance (TNC-P)} as the solution for this transformation
+roadmap
 
-\hypertarget{scope-responsibility}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility}}
+E2E delivery including Hardware (Network Equipment, Compute, Storage,
+Firewall, Load-balancer), Virtualization Platforms, Service Assurance
+Software, Solution Customization, Operation and Maintenance Support
+Services
+
+Key Components include Event Management, Performance Management,
+Topology Management and Trouble Ticketing System
+
+\hypertarget{scope-responsibility-1}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-1}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -186,7 +219,22 @@ roadmap.
   Solution Compliance vetting. E2e Solution proposal drafting. Solution
   presentation. Technical engagement with customer
 \item
-  RFP Awarded, currently taking up the Solution Architect role
+  RFP Awarded mid Year 2022, assigned as Technical Architect for
+  deployment, leading a team of 7 Services Engineers
+\item
+  Post Go-live Accelerated Support Services
+\item
+  Drive new Use Cases with Customer
+\end{enumerate}
+
+\hypertarget{contribution-highlights-1}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Go-live successfully
 \end{enumerate}
 
 \hypertarget{verizon-communications}{%
@@ -203,8 +251,8 @@ Watson AIOps} which includes
 \href{https://www.ibm.com/docs/en/tncm-p/1.4.2}{Telco Network Cloud
 Manager for Performance (TNC-P)}
 
-\hypertarget{scope-responsibility-1}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-1}}
+\hypertarget{scope-responsibility-2}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-2}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -223,8 +271,8 @@ Manager for Performance (TNC-P)}
   Lead customization solution discussion with customer
 \end{enumerate}
 
-\hypertarget{contribution-highlights}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights}}
+\hypertarget{contribution-highlights-2}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-2}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -249,8 +297,8 @@ project, TIME required a fully automated, dynamic, end-to-end Network
 Function Virtualization (NFV) service lifecycle management and network
 orchestration (MANO) solution for the enterprise leased line products
 
-\hypertarget{scope-responsibility-2}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-2}}
+\hypertarget{scope-responsibility-3}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-3}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -264,8 +312,8 @@ orchestration (MANO) solution for the enterprise leased line products
   integration with Service Assurance Platform
 \end{enumerate}
 
-\hypertarget{contribution-highlights-1}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-1}}
+\hypertarget{contribution-highlights-3}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-3}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -290,8 +338,8 @@ been using Tivoli Network Performance Management (TNPM) for network
 monitoring. ICBC has roadmap for improving network supervision, TNPM is
 required to monitor the network at a lower granularity
 
-\hypertarget{scope-responsibility-3}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-3}}
+\hypertarget{scope-responsibility-4}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-4}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -307,8 +355,8 @@ required to monitor the network at a lower granularity
   metric collections
 \end{enumerate}
 
-\hypertarget{contribution-highlights-2}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-2}}
+\hypertarget{contribution-highlights-4}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-4}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -327,8 +375,8 @@ Malaysia}}{AIA Malaysia}}\label{aia-malaysia}}
 Chatbot migration from existing managed service platform into IBM Clod
 Watson Assistant / Conversation platform.
 
-\hypertarget{scope-responsibility-4}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-4}}
+\hypertarget{scope-responsibility-5}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-5}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -341,8 +389,8 @@ Watson Assistant / Conversation platform.
   SIT and UAT support / mediation. Production rollout and closure
 \end{enumerate}
 
-\hypertarget{contribution-highlights-3}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-3}}
+\hypertarget{contribution-highlights-5}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-5}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -360,8 +408,8 @@ Bhd}}{Public Bank Bhd}}\label{public-bank-bhd}}
 Software services engagement for upgrade / integration between ISAM,
 TDI, SDS and custom Java web application for Access Management.
 
-\hypertarget{scope-responsibility-5}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-5}}
+\hypertarget{scope-responsibility-6}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-6}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -372,8 +420,8 @@ TDI, SDS and custom Java web application for Access Management.
   Update / fix broken integration points
 \end{enumerate}
 
-\hypertarget{contribution-highlights-4}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-4}}
+\hypertarget{contribution-highlights-6}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-6}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -395,8 +443,8 @@ integrates with the
 Netcool Operations Insight} (NOI) as an Enterprise Network Operation
 Support System (OSS) solution.
 
-\hypertarget{scope-responsibility-6}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-6}}
+\hypertarget{scope-responsibility-7}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-7}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -410,8 +458,8 @@ Support System (OSS) solution.
   Deployment / Services partner support
 \end{enumerate}
 
-\hypertarget{contribution-highlights-5}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-5}}
+\hypertarget{contribution-highlights-7}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-7}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -519,8 +567,8 @@ A Telecom industry project based in Dubai, code named ``Umbrella
 Performance Management''. Contributed as offshore professional service
 engineer.
 
-\hypertarget{scope-responsibility-7}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-7}}
+\hypertarget{scope-responsibility-8}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-8}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -535,8 +583,8 @@ engineer.
   Cross-launch report facilities.
 \end{enumerate}
 
-\hypertarget{contribution-highlights-6}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-6}}
+\hypertarget{contribution-highlights-8}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-8}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -560,8 +608,8 @@ New business opportunities around South-East Asia region with
 \href{https://www.globe.com.ph/}{Globe Telecom} (Philippines) and
 \href{http://truemoveh.truecorp.co.th/?ln=en}{TrueMove} (Thailand).
 
-\hypertarget{scope-responsibility-8}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-8}}
+\hypertarget{scope-responsibility-9}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-9}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -577,8 +625,8 @@ New business opportunities around South-East Asia region with
   (e.g.~Inventory enrichment).
 \end{enumerate}
 
-\hypertarget{contribution-highlights-7}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-7}}
+\hypertarget{contribution-highlights-9}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-9}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -623,8 +671,8 @@ product includes both Wireline and Wireless domains. Each delivers data
 as separated source. The TNPM Data Provider is a common RESTful API to
 access a common data federated layer.
 
-\hypertarget{scope-responsibility-9}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-9}}
+\hypertarget{scope-responsibility-10}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-10}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -638,8 +686,8 @@ access a common data federated layer.
   Developed features that fits into the TNPM solution ecosystem.
 \end{enumerate}
 
-\hypertarget{contribution-highlights-8}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-8}}
+\hypertarget{contribution-highlights-10}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-10}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -673,8 +721,8 @@ method. ALU advocates moving forward for OSS clients to use the
 DataStage (DataStage) as an interface to SAM for multiple data streams
 followed by network data processing and modelling with TNPM.
 
-\hypertarget{scope-responsibility-10}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-10}}
+\hypertarget{scope-responsibility-11}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-11}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -689,8 +737,8 @@ followed by network data processing and modelling with TNPM.
   Supported deployment activities and defects raised.
 \end{enumerate}
 
-\hypertarget{contribution-highlights-9}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-9}}
+\hypertarget{contribution-highlights-11}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-11}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -719,8 +767,8 @@ TNPM Cognos deliverables include the All-KPI Report for data
 availability validation purposes. However it was costly to produce. An
 automation tool written to improve cost efficiency.
 
-\hypertarget{scope-responsibility-11}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-11}}
+\hypertarget{scope-responsibility-12}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-12}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -731,8 +779,8 @@ automation tool written to improve cost efficiency.
   Developed automation tool.
 \end{enumerate}
 
-\hypertarget{contribution-highlights-10}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-10}}
+\hypertarget{contribution-highlights-12}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-12}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -757,8 +805,8 @@ various protocols. Technology Packs provide the discovery, collection
 model and report definitions according to vendor (e.g.~Huawei, Cisco,
 Ericsson and etc) device specifications.
 
-\hypertarget{scope-responsibility-12}{%
-\paragraph{Scope / Responsibility}\label{scope-responsibility-12}}
+\hypertarget{scope-responsibility-13}{%
+\paragraph{Scope / Responsibility}\label{scope-responsibility-13}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -791,8 +839,8 @@ Ericsson and etc) device specifications.
   \end{itemize}
 \end{enumerate}
 
-\hypertarget{contribution-highlights-11}{%
-\paragraph{Contribution Highlights}\label{contribution-highlights-11}}
+\hypertarget{contribution-highlights-13}{%
+\paragraph{Contribution Highlights}\label{contribution-highlights-13}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -800,6 +848,37 @@ Ericsson and etc) device specifications.
 \item
   Produced various General Availability (GA) variant Technology Packs.
 \end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{product-software-technology-experiences}{%
+\section{Product / Software / Technology
+Experiences}\label{product-software-technology-experiences}}
+
+Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), IBM
+Cognos Software Suite, IBM WebSphere Application Server, IBM InfoSphere
+DataStage, IBM Common User Restful Interface (CURI), IBM Dashboard
+Application Service Hub (DASH), Apache Tomcat, Apache Web Server, Jetty
+Web Server, Alcatel-Lucent 5620 Service Aware Manager, Jenkins
+Integration Suite, Git Source Control, Oracle Relational Database,
+MySQL, PostgreSQL, H2, IBM DB2, Akka, Kafka, Zookeeper, Hadoop, Ambari,
+IBM Open Platform (IOP), Simple Build Tool (SBT), Apache ANT, Docker,
+KairosDB, Kudu, Cassandra, IBM Security Access Manager (ISAM), IBM
+Tivoli Directory Integrator (TDI), IBM Security Directory Server
+(SDS/LDAP), IBM Cloud Watson Assistant / Conversation, IBM Agile
+Lifecycle Manager, IBM Cloud Platform, Kurbenetes, Podman, Red Hat
+OpenStack Platform, Red Hat Ceph Storage, Red Hat OpenShift Container
+Platform, NodeJS, Ansible, Simple Network Management Protocol (SNMP),
+Flow / Cisco Netflow, Sampled Flow, IBM Tivoli/Netcool OMNIbus, IBM
+Tivoli/Netcool Impact, IBM Agile Service Manager
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{programming-skillsets}{%
+\section{Programming Skillsets}\label{programming-skillsets}}
+
+Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting,
+SQL, R Programming, Python
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -811,7 +890,7 @@ Ericsson and etc) device specifications.
   >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2771}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2771}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2771}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 Institute Name
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -821,8 +900,10 @@ Qualification
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Completion Date
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Coursera &
 \href{https://www.coursera.org/specializations/android-app-development}{Android
 App Development Specialization by University of Vanderbilt} & Click
@@ -839,7 +920,6 @@ Programming Principles in Scala} & Click
 for Course Certificate & June 2014 \\
 Tunku Abdul Rahman College & Electronic Engineering & Advanced Diploma &
 Jan 2010 \\
-\bottomrule()
 \end{longtable}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -861,14 +941,16 @@ Data management framework based on Java.
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0789}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9211}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 ID
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Description
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \href{https://issues.apache.org/jira/browse/CALCITE-705}{CALCITE-705} &
 DML in Avatica, and split Execute out from Fetch request \\
 \href{https://issues.apache.org/jira/browse/CALCITE-666}{CALCITE-666} &
@@ -878,7 +960,6 @@ Using sub-queries in CASE statement against JDBC tables generates
 invalid Oracle SQL \\
 \href{https://issues.apache.org/jira/browse/CALCITE-646}{CALCITE-646} &
 AvaticaStatement.execute method broken over remote JDBC \\
-\bottomrule()
 \end{longtable}
 
 \end{document}
