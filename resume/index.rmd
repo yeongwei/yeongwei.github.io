@@ -2,8 +2,8 @@
 title: "Yeong Wei, Lai"
 output:
   pdf_document: default
-  html_document: default
   word_document: default
+  html_document: default
 ---
 
 ### Architect | Software Professional Services | OSS | MANO
@@ -359,8 +359,8 @@ Data management framework based on Java.
 
 ### JIRA References
 
-ID|Description
----------|---------------------------------------------------------------------------------------------------------
+ID                  |Description
+--------------------|---------------------------------------------------------------------------------------------------------
 [CALCITE-705](https://issues.apache.org/jira/browse/CALCITE-705)|DML in Avatica, and split Execute out from Fetch request
 [CALCITE-666](https://issues.apache.org/jira/browse/CALCITE-666)|Anti-semi-joins against JDBC adapter give wrong results
 [CALCITE-259](https://issues.apache.org/jira/browse/CALCITE-259)|Using sub-queries in CASE statement against JDBC tables generates invalid Oracle SQL

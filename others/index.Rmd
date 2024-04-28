@@ -59,9 +59,9 @@ My current practice includes working with Private and Hybrid Cloud environments.
 ## 4. Please describe how you see the role you’re applying to.
 
 1. Design Infrastructure with relevant Products / Tools to meet Business Objectives and Application Requirements
-2. Work closely with Application Architects to ensure Application are Build and Deploy in accordance to the Infrastructure landscape
+2. Work closely with Application Architects to ensure Application are Build and Deploy in accordance with the infrastructure landscape
 3. Attend to Infrastructure challenges / issues and devise solution
-4. Keeping infrastructure Architecture up to date with latest compliance policies and industry best practices 
+4. Keeping infrastructure Architecture up to date with latest compliance policies and industry best practices
 
 ## 5. Please list down relevant certifications or credentials that you have obtained that could support you in this role.
 
