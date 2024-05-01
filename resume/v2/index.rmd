@@ -6,11 +6,9 @@ output:
   pdf_document: default
 ---
 
-Mobile: +6018-660 1566 \
-E-mail: yeongwei2004@yahoo.com \
-LinkedIn: https://www.linkedin.com/in/yeong-wei-116v/ \
-GitHub: https://github.com/yeongwei \
-Resume: https://yeongwei.github.io/resume/v2/
+**Mobile**: `+6018-660 1566` | **E-mail**: `yeongwei2004@yahoo.com` \
+**LinkedIn**: `https://www.linkedin.com/in/yeong-wei-116v/` \
+**Resume**: `https://yeongwei.github.io/resume/v2/`
 
 ***
 
@@ -26,7 +24,7 @@ Description                 |Details
 ----------------------------|-------------------------------------------------------------------------------------------------
 Architecture Design Patterns|Microservice, Event Driven, Domain Driven, Data Driven, Event Sourcing, Pub-sub, Sharding, MVC  
 Programming Languages       |Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python  
-Platforms                   |Red Hat OpenStack Platform, Red Hat OpenShift Container Platform, Red Hat Ceph Storage, Opensource Ceph, Kubernetes  
+Platforms                   |Red Hat OpenStack Platform, Red Hat OpenShift Container Platform, Red Hat Ceph Storage, Open-source Ceph, Kubernetes  
 Tools                       |Ansible, Jenkins, Git, Docker, Kafka, NGINX, Cacti, Podman, Prometheus, Grafana
 Products                    |IBM Netcool Operations Insight, IBM Cloud Pak for AIOps, IBM Cloud Pack for Network Automation  
 
@@ -36,27 +34,26 @@ Products                    |IBM Netcool Operations Insight, IBM Cloud Pak for A
 
 ## Consultant Architect
 
-##### Vodafone Kabel Deutschland | Remote | 2024 Q1
+_**Vodafone Kabel Deutschland | Remote | 2024 Q1**_
 
-Collaborated with TATA Consultancy Services to conduct Proof-of-Concept(POC) with Vodafone Kabel Deutschland for Media Delivery Service Management Use Cases for Hybrid Cloud Architecture with Infrastructures / Applications running on AWS Cloud and on premise deployed IBM Watson AIOps
+Joint Proof-of-Concept(POC) with TATA Consultancy Services for Vodafone Kabel Deutschland Media Delivery Service Management Use Cases on Hybrid Cloud Architecture with Infrastructures / Applications running on AWS and on-premise IBM Watson AIOps
 
-* Collaborated with Consultants from APAC and Europe Regions to map Vodafone's Aspirations to Product Capabilities
-* Created Architecture Blueprints with focus on Integration Specification Recommendations, Security Compliance Standard and TCO Estimations
-* Worked with Technical Engineer from TATA providing Technical Guidance for POC system setup
-* Use case included advanced correlated super grouping with Temporal Analytics, Seasonality, Topology-based Correlation and Metric Anomaly Detection
+* Collaborated with Vodafone to understand aspirations and work with TATA Consultants to create Architecture Blueprints including Product Features, Integration Recommendations, Security Compliance Standards and TCO Estimations
+* Worked with TATA Technical Engineer in providing guidance for POC system setup
+* Use case included advanced super grouping correlations with Temporal Analytics, Seasonality, Topology-based Correlation and Metric Anomaly Detection
 
 ***
 
 ## Solution Architect 
 
-##### U Mobile Sdn Bhd | Malaysia | 2022 - Current
+_**U Mobile Sdn Bhd | Malaysia | 2022 - Current**_
 
-Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. Won tender in 2022 Q1. E2E delivery includes Hardware (Compute, Storage, Networking, Firewall, Load-balancer), Virtualization Platforms, Service Assurance Software, Solution Customization, Operation and Maintenance Support Services. Key Solution functions include Event Management, Performance Management, Topology Management and Trouble Ticketing System
+Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. E2E delivery includes Hardware, Networking, Virtualization Platforms, Service Assurance Software, Solution Customization, Operation and Maintenance Support Services. Key Solution functions include Event Management, Performance Management, Topology Management and Trouble Ticketing System
 
 * Created Solution Proposals based on different deployment models with different cost profiles
 * Collaborated with Vendors and internal stakeholders to optimize Solution in meeting requirements with performance, reliability and cost
-* Design and implemented scalable and reliable Private Cloud with Dell Server and Networking Hardwares, Red Hat Virtualization Platforms, Fortigate Firewalls and Kemp Loadbalancers
-* Led a team of Engineers in providing technical leadership, artefacts and support for implementation and customization across key solution functions
+* Designed and implemented scalable and reliable Private Cloud with Dell Server and Networking, Red Hat Virtualization Platforms, Fortigate Firewalls and Kemp Loadbalancers
+* Designed and implemented E2E Service Assurance solution. Led team of Engineers to for implementation and customization across key solution functions
 * Established good communication with Product Principals for various support
 * Worked closely with Test Architect to ensure sufficient test coverage and automated test
 
@@ -64,28 +61,30 @@ Turn-key Project with U Mobile to transform Network Service Operation towards ze
 
 ## Integration Architect
 
-##### Verizon Communications | Remote | 2021
+_**Verizon Communications | Remote | 2021**_
 
 Verizon, a tier-1 telecommunication operator in the United States of America wanted to refresh the existing Service Assurance platform with IBM Watson AIOps and Telco Network Cloud Manager for Performance (TNC-P).
 
-* Spearheaded the TNC-P deployment strategy for a Hybrid Cloud environment consisting of AWS hosted Data Sources and on premise hosted Red Hat OpenShift Container Platform
-* Provided technical guidance to Deployment Engineers for deployment in a highly compliance stringent environment for Containers
-* Worked closely with Product Principal to release support for Service Mesh as part security compliance and supporting DevOps Canary and A/B deployment strategy
+* Spearheaded TNC-P deployment strategy in Hybrid Cloud environment with AWS hosted Data Sources and on-premise hosted Red Hat OpenShift Container Platform
+* Collaborated with Deployment Engineers for deploying TNC-P in a highly compliance regulated environment for Containers
+* Worked closely with Product Principal to support Service Mesh as part operational requirements for supporting Canary and A/B deployment strategy
 
 ***
 
 ## Solution Architect 
 
-##### TIME dotCom Bhd. | Malaysia | 2020 - Current
+_**TIME dotCom Bhd. | Malaysia | 2020 - Current**_
 
-TIME required a unified Performance Management Solution across multiple network domains. Telco Network Cloud Manager for Performance (TNC-P) is a cloud native, vendor and technology agnostic Performance Management Solution that is suitable.
+TIME required a unified Performance Management Solution across multiple network domains. Telco Network Cloud Manager for Performance (TNC-P) is a cloud native, vendor and technology agnostic Performance Management Solution that fit the requirements.
 
 * Conducted requirement gathering sessions with various operational teams and prioritized delivery
-* Design and implemented Kubernetes Cluster with Opensource Ceph as Storage Provider for TNC-P
+* Designed and implemented Container Platform with Kubernetes and Open-source Ceph for TNC-P deployment
 * Led Services Team to implement reliable and performant ETL processes for multitude of data sources using Apache NiFi
 * Worked closely with operational user to ensure measurements were captured correctly for critical reports
-  
-##### TIME dotCom Bhd. | Malaysia | 2019 - Current
+
+&nbsp;&nbsp;
+
+_**TIME dotCom Bhd. | Malaysia | 2019 - Current**_
 
 TIME required a fully automated, integrated, end-to-end Network Service Fulfillment Solution with Closed-and-Opened-loop integration to Service Order, Service Assurance, Network Managers, Network Elements and CRM according to best practices with ETSI MANO Framework.
 
@@ -95,19 +94,21 @@ TIME required a fully automated, integrated, end-to-end Network Service Fulfillm
 * Designed and implemented Closed-loop integration with Service Assurance using Life cycle Events to automate on boarding of Network Service instance for fault, network and performance management
 * Designed and implemented Opened-loop integration with CRM, Service Order Management to notify latest status
 * Worked closely with team engineers, making sure comfortable with network domain technologies
-  
-##### TIME dotCom Bhd. | Malaysia | 2018 - Current
+
+&nbsp;&nbsp;
+
+_**TIME dotCom Bhd. | Malaysia | 2018 - Current**_
 
 TIME had been using Netcool Product Suite as Service Assurance Platform. As network grew, TIME required the Service Assurance Platform to scale accordingly.
 
-* Developed strategy to segment Service Assurance into multiple Aggregation and Collection domains based on growth projections
+* Developed strategy to segment Service Assurance System into multiple Aggregation and Collection domains based on growth projections
 * Worked closely with deployment teams to roll out changes incrementally prioritizing operational continuity
 
 ***
 
 ## Technical Consultant
 
-##### Industrial and Commercial Bank of China (ICBC) | China | 2019
+_**Industrial and Commercial Bank of China (ICBC) | China | 2019**_
 
 ICBC, a prominent bank in China has been using Tivoli Network Performance Management (TNPM) for network performance monitoring. ICBC had aggressive roadmap for network observability improvements. ICBC required monitoring granularity down to 1-minute and further.
 
@@ -119,7 +120,7 @@ ICBC, a prominent bank in China has been using Tivoli Network Performance Manage
 
 ## Lead Services Engineer 
 
-##### AIA Bhd. | Malaysia | 2018 - 2019
+_**AIA Bhd. | Malaysia | 2018 - 2019**_
 
 AskSara Chatbot developed to assists AIA's Customers and Agents for information over Facebook Messenger. AIA wanted from existing managed service platform into IBM Clod Watson Assistant on IBM Cloud Platform
 
@@ -131,7 +132,7 @@ AskSara Chatbot developed to assists AIA's Customers and Agents for information 
 
 ## Software Services Engineer
 
-##### Public Bank Bhd. | Malaysa | 2017 - 2018
+_**Public Bank Bhd. | Malaysa | 2017 - 2018**_
 
 Public Bank wanted to upgrade the IBM Security Access Manager, Tivoli Directory Integrator and IBM Security Directory Server. The Central Access Web portal developed as Java Web Application was required to update for integration to continue working
 
@@ -142,7 +143,7 @@ Public Bank wanted to upgrade the IBM Security Access Manager, Tivoli Directory 
 
 ## Staff Software Engineer
 
-##### Network Performance Insight (NPI) | Malaysia | 2016 - 2017
+_**Network Performance Insight (NPI) | Malaysia | 2016 - 2017**_
 
 NPI Production Development as part of the IBM Service Assurance Portfolio with tight integration with IBM Netcool Operations Insight (NOI).
 
@@ -151,7 +152,9 @@ NPI Production Development as part of the IBM Service Assurance Portfolio with t
 * CI/CD Pipeline implementation with Jenkins, GitLab and Scala / Java Test suites as part of DevOps adoption
 * Automated E2E BVT with containerized approach to quickly setup and tear down environments. Improving agility and assurance
 
-#### Etisalat UAE | Remote | 2015 - 2016
+&nbsp;&nbsp;
+
+_**Etisalat UAE | Remote | 2015 - 2016**_
 
 Etisalat, prominent Telecommunication operation in Dubai wanted to refresh existing Service Assurance Platform with Netcool product suites.
 
@@ -162,7 +165,7 @@ Etisalat, prominent Telecommunication operation in Dubai wanted to refresh exist
 
 ## Technical Presale Engineer
 
-##### Remote & APAC | 2015 - 2016
+_**Remote & APAC | 2015 - 2016**_
 
 New opportunities for Netcool product suites with Globe Telecom (Philippines) and TrueMove (Thailand)
 
@@ -176,7 +179,7 @@ New opportunities for Netcool product suites with Globe Telecom (Philippines) an
 
 ## Staff Software Engineer
 
-##### TNPM Data Provider | Malaysia | 2015
+_**TNPM Data Provider | Malaysia | 2015**_
 
 TNPM Data extension interface. The TNPM Data Provider is a common RESTful API to access the federated data within TNPM
 
@@ -188,7 +191,7 @@ TNPM Data extension interface. The TNPM Data Provider is a common RESTful API to
 
 ## Software Engineer
 
-##### TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile | Malaysia | 2012 - 2014
+_**TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile | Malaysia | 2012 - 2014**_
 
 ALU 5620 SAM is an enterprise grade, multi-domain network service management software that integrates with TNPM for Performance Management. As part of roadmap, TNPM ETL required enhancements to support the LogToFile protocol
 
@@ -196,17 +199,17 @@ ALU 5620 SAM is an enterprise grade, multi-domain network service management sof
 * Completed product certification successfully at ALU Lab in Canada
 * Supported production roll out for Telus successfully 
   
-  
+&nbsp;&nbsp;
 
-#### TNPM Cognos All-KPI Report Automation | Malaysia | 2010 - 2012
+_**TNPM Cognos All-KPI Report Automation | Malaysia | 2010 - 2012**_
 
 TNPM includes KPI Availability report as part of Product Feature. However it was costly to produce. An automation tool written to improve cost efficiency
 
 * Created automation tool using Perl and TNPM Models in XML adhered to MVC framework
   
-  
+&nbsp;&nbsp;
 
-#### TNPM Technology Pack | Malaysia | 2010 - 2012
+_**TNPM Technology Pack | Malaysia | 2010 - 2012**_
 
 TNPM is a vendor and technology agnostic performance management tool supporting wide range of domains. The collector is a flexible ETL framewok that supports wide range of protocols
 
