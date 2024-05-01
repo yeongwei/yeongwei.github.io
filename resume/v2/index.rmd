@@ -150,6 +150,8 @@ Etisalat, prominent Telecommunication operation in Dubai wanted to refresh exist
 * Created automation tools to migrate Staging configurations to Production with Java and Bash Shell script to reduce risk of promotion
 * Created automation tools to generate Cognos Reports based on configuration definition with Java to improve operational administrative efficiency 
 
+***
+
 ## Technical Presale Engineer
 
 #### Remote & APAC | 2015 - 2016
@@ -185,73 +187,21 @@ ALU 5620 SAM is an enterprise grade, multi-domain network service management sof
 * Re-designed and re-implemented the TNPM Bulk Collector according to LogToFile protocol
 * Completed product certification successfully at ALU Lab in Canada
 * Supported production roll out for Telus successfully 
+\
 
 #### TNPM Cognos All-KPI Report Automation | Malaysia | 2010 - 2012
 
 TNPM includes KPI Availability report as part of Product Feature. However it was costly to produce. An automation tool written to improve cost efficiency
 
 * Created automation tool using Perl and TNPM Models in XML adhered to MVC framework
+\
 
 #### TNPM Technology Pack | Malaysia | 2010 - 2012
 
 TNPM is a vendor and technology agnostic performance management tool supporting wide range of domains. The collector is a flexible ETL framewok that supports wide range of protocols
 
 * Developed ETL adapters to process data based on SNMP and File Transfer protocols using ECMA Script
-
-***
-
-# Product / Software / Technology Experiences
-Tivoli Netcool Performance Manager (TNPM) for Wireline (PROVISO), 
-IBM Cognos Software Suite, IBM WebSphere Application Server,
-IBM InfoSphere DataStage, 
-IBM Common User Restful Interface (CURI), 
-IBM Dashboard Application Service Hub (DASH), 
-Apache Tomcat, 
-Apache Web Server, 
-Jetty Web Server, 
-Alcatel-Lucent 5620 Service Aware Manager, 
-Jenkins Integration Suite, 
-Git Source Control, 
-Oracle Relational Database, 
-MySQL, 
-PostgreSQL, 
-H2, 
-IBM DB2, 
-Akka, 
-Kafka, 
-Zookeeper, 
-Hadoop, 
-Ambari,
-IBM Open Platform (IOP),
-Simple Build Tool (SBT), 
-Apache ANT, 
-Docker, 
-KairosDB,
-Kudu,
-Cassandra,
-IBM Security Access Manager (ISAM),
-IBM Tivoli Directory Integrator (TDI),
-IBM Security Directory Server (SDS/LDAP),
-IBM Cloud Watson Assistant / Conversation,
-IBM Agile Lifecycle Manager,
-IBM Cloud Platform,
-Kurbenetes,
-Podman,
-Red Hat OpenStack Platform,
-Red Hat Ceph Storage,
-Red Hat OpenShift Container Platform,
-NodeJS,
-Ansible,
-Simple Network Management Protocol (SNMP),
-Flow / Cisco Netflow, Sampled Flow,
-IBM Tivoli/Netcool OMNIbus,
-IBM Tivoli/Netcool Impact,
-IBM Agile Service Manager
-
-***
-
-# Programming Skillsets
-Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python
+\
 
 ***
 
