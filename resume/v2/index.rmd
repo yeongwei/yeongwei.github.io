@@ -31,7 +31,7 @@ Products       |IBM Netcool Operations Insight, IBM Cloud Pak for AIOps, IBM Clo
 
 ***
 
-# Professional Details
+# Experince
 
 ## Consultant Architect
 
@@ -41,7 +41,7 @@ Joint Proof-of-Concept Opportunity with TATA Consultancy Services for Vodafone K
 
 * Collaborated with TATA Consulting Team of 2 Consultants to create Architecture Blueprints focusing on Product Features, Integration Recommendations, Security Compliance Standards and TCO Estimations.
 * Led TATA Technical Team of 3 Engineers in providing guidance for POC system setup.
-* Use case included advanced super grouping correlations comprising 4 major features like Temporal Analytics, Seasonality, Topology-based Correlation and Metric Anomaly Detection.
+* Use case included 4 major correlations features: (1) Temporal Analytics (2) Seasonality (3) Topology-based Correlation (4) Metric Anomaly Detection.
 
 ***
 
@@ -52,10 +52,9 @@ _**U Mobile Sdn Bhd | Malaysia | 2022 - Current**_
 Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. E2E delivery includes Hardware, Networking, Virtualization, Service Assurance Software, Customization, Operation and Maintenance Support Services. 4 Key Solution Areas include Event Management, Performance Management, Topology Management and Trouble Ticketing System. Solution required to meet 5 years' worth of projections over 13000 Sites.
 
 * Created Solution Proposals based on different 2 deployment models (1) Private and (2) Public Cloud with costing.
-* Collaborated with Vendors and internal stakeholders to optimize Solution focusing on 4 themes: (1) Scalability, (2) Performance, (3) reliability and (4) Cost.
-* Designed and implemented: 
-  * Scalable and reliable Private Cloud with over 3500 vCPUs worth of computing resource.
-  * E2E Service Assurance solution across 7 Network Operation use cases. 
+* Worked with Vendors and stakeholders to optimize Solution focusing on 4 themes: (1) Scalability, (2) Performance, (3) reliability and (4) Cost.
+* Built scalable and reliable Private Cloud with over 3500 vCPUs computing resource.
+* Delivered E2E Service Assurance solution across 7 Network Operation use cases. 
 * Led team of over 7 Engineers for implementation and customization across key Solution Areas.
 * Established good communication with Product Principals for various support.
 * Worked closely with Test Architect to ensure sufficient test coverage and automated test.
@@ -160,8 +159,9 @@ _**Etisalat UAE | Remote | 2015 - 2016**_
 
 Etisalat, prominent Telecommunication operation in Dubai wanted to refresh existing Service Assurance Platform with Netcool product suites.
 
-* Created automation tools to migrate Staging configurations to Production with Java and Bash Shell script to reduce risk of promotion.
-* Created automation tools to generate Cognos Reports based on configuration definition with Java to improve operational administrative efficiency. 
+* Developed Automation Tools:
+  * Migrate Staging configurations to Production with Java and Bash Shell script to reduce risk.
+  * Generate Cognos Reports based on configuration definition with Java to improve operational administrative efficiency. 
 
 ***
 
@@ -172,7 +172,7 @@ _**Remote & APAC | 2015 - 2016**_
 New opportunities for Netcool product suites with 2 potential customers: (1) Globe Telecom, Philippines (2) TrueMove, Thailand
 
 * Prepared RFP Technical compliance document.
-* Collaborated with Client Technical Architect and Product SMR to align solution direction.
+* Aligned with Client Technical Architect and Product SME for solution direction.
 * Prepared and maintain demo system. Conducted demo presentation with different user groups.
 
 ***
@@ -197,7 +197,7 @@ _**TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile | Malaysia | 2012 - 2014**_
 
 _**TNPM Cognos All-KPI Report Automation | Malaysia | 2010 - 2012**_
 
-TNPM includes KPI Availability report as Product Feature. Costly to produce. Created automation tool using Perl and TNPM Models in XML adhered to MVC framework.
+TNPM includes KPI Availability report as Product Feature. Costly to produce. Developed tools using Perl and TNPM Models in XML adhered to MVC framework to automate tasks.
   
 &nbsp;&nbsp;
 
