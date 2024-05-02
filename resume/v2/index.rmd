@@ -25,7 +25,7 @@ Description    |Details
 Architecture   |Microservice, Event Driven, Domain Driven, Data Driven, Event Sourcing, Pub-sub, Sharding, MVC  
 Programming    |Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python  
 Platforms      |Red Hat OpenStack Platform, Red Hat OpenShift Container Platform, Red Hat Ceph Storage, Open-source Ceph, Kubernetes  
-Database       |Oracle RDBMS, IBM DB2, MySQL, PostgreSQL, Apache Cassandra
+Database       |Oracle RDBMS, IBM DB2, MySQL, PostgreSQL
 Tools          |Ansible, Jenkins, Git, Docker, Kafka, NGINX, Cacti, Podman, Prometheus, Grafana
 Products       |IBM Netcool Operations Insight, IBM Cloud Pak for AIOps, IBM Cloud Pack for Network Automation  
 
@@ -49,15 +49,21 @@ Joint Proof-of-Concept Opportunity with TATA Consultancy Services for Vodafone K
 
 _**U Mobile Sdn Bhd. | Malaysia | 2022 - Current**_
 
-Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. E2E delivery includes Hardware, Networking, Virtualization, Service Assurance Software, Customization, Operation and Maintenance Support Services. 4 Key Solution Areas include Event Management, Performance Management, Topology Management and Trouble Ticketing System. Solution required to meet 5 years' worth of projections over 13000 Sites.
+Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. E2E delivery includes Hardware, Networking, Virtualization, Service Assurance Software, Customization, Operation and Maintenance Support Services. 5 Key Solution Areas include Event Management, Performance Management, Topology Management, Trouble Ticketingand GIS. Solution required to meet 5 years' worth of projections over 13000 Cell Sites.
 
 * Created Solution Proposals based on different 2 deployment models: (1) Private and (2) Public Cloud.
-* Optimized Solution with Vendors and stakeholders focusing on 4 themes: (1) Scalability, (2) Performance, (3) reliability and (4) Cost.
+* Collaborated with more than 5 Vendors on following matters:
+  * Solution design and implementation focusing on 4 themes: (1) Scalability, (2) Performance, (3) reliability and (4) Cost.
+  * Optimized Solution to address budget concerns of Project Office.
+  * Align structures for post deployment support and services.
 * Built scalable and reliable Private Cloud with over 3500 vCPUs computing resource.
 * Delivered E2E Service Assurance solution across 7 Network Operation use cases. 
+* Drove Client facing discussion with more than 5 different teams: (1) OSS, (2) NOC, (3) Planning, (4) Technical Support for various Domains, (5) Field Operations.
 * Led team of over 7 Engineers for implementation and customization across key Solution Areas.
-* Established good communication with Product Principals for various support.
-* Worked closely with Test Architect to ensure sufficient test coverage and automated test.
+* Regular meetings with Product Principals:
+  * Product Management on features feedback / discussions.
+  * Product SME Principals on technical support.
+* Maintained delivery standards by constantly working with Test Architect on test coverage and automation improvements.
 
 ***
 
@@ -68,8 +74,10 @@ _**Verizon Communications | Remote | 2021**_
 Verizon, a tier-1 telecommunication operator in United States of America wanted to refresh existing Service Assurance platform with IBM Watson AIOps and Telco Network Cloud Manager for Performance (TNC-P).
 
 * Spearheaded TNC-P deployment strategy in Hybrid Cloud environment with 11+ AWS hosted Data Sources and on-premises hosted Red Hat OpenShift Container Platform with 6 Namespaces.
-* Led 4 Deployment Engineers for deploying TNC-P in a highly compliance regulated environment for Containers.
-* Worked closely with Product Principal to support Service Mesh for supporting 2 Release Strategy: (1) Canary and (2) A/B
+* Led 4 Deployment Engineers working in Verizon highly regulated environment for Containers:
+  * Strict Security Context
+  * Lean RBAC Definition
+* Worked closely with Product Principal to support Service Mesh for 3 Operational Requirements (1) Traffic Observability (2) Canary Roll out and (3) A/B Testing
 
 ***
 
@@ -90,10 +98,11 @@ _**TIME dotCom Bhd. | Malaysia | 2019 - Current**_
 
 TIME required a fully automated, integrated, end-to-end Network Service Fulfillment Solution with Closed-and-Opened-loop integration compliant with ETSI MANO Framework to manage 4 Network Service Offerings.
 
-* Modeled Network Services into 14+ modular network functions for composable Network Service Design.
+* Modeled Network Services into 14+ modular network functions as composable Network Service Design.
+* Interacted regularly with at least 4 teams responsible for Service Fulfillment: (1) OSS (2) SOC (3) IP Planning (4) Provisioning  
 * Designed and implemented,
     + Reliable Network Service Orchestration Solution capable of managing up to 1000 Network Service instances.
-    + Application interface abstraction for 5 systems exposed as RESTful API.
+    + Interface abstraction for 5 Systems with RESTful API serving as Active and Available Inventory (AAI) System to complement IBM Product feature
     + Network equipment integration for 11 models across 5 vendors.
     + Closed-loop integration with 3 Service Assurance functions: (1) Fault Management (2) Performance Management (3) Network Management
     + Opened-loop integration with 2 Customer Facing functions: (1) CRM (2) Service Order Management
