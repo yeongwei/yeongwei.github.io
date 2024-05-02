@@ -77,7 +77,7 @@ Verizon, a tier-1 telecommunication operator in United States of America wanted 
 * Led 4 Deployment Engineers working in Verizon highly regulated environment for Containers:
   * Strict Security Context
   * Lean RBAC Definition
-* Worked closely with Product Principal to support Service Mesh for 3 Operational Requirements (1) Traffic Observability (2) Canary Roll out and (3) A/B Testing
+* Worked closely with Product Principal to support Service Mesh for 3 DevSecOps Requirements: (1) Traffic Observability (2) Canary Roll out and (3) A/B Testing.
 
 ***
 
@@ -99,13 +99,13 @@ _**TIME dotCom Bhd. | Malaysia | 2019 - Current**_
 TIME required a fully automated, integrated, end-to-end Network Service Fulfillment Solution with Closed-and-Opened-loop integration compliant with ETSI MANO Framework to manage 4 Network Service Offerings.
 
 * Modeled Network Services into 14+ modular network functions as composable Network Service Design.
-* Interacted regularly with at least 4 teams responsible for Service Fulfillment: (1) OSS (2) SOC (3) IP Planning (4) Provisioning  
+* Interacted regularly with at least 4 teams responsible for Service Fulfillment: (1) OSS (2) SOC (3) IP Planning (4) Provisioning.  
 * Designed and implemented,
     + Reliable Network Service Orchestration Solution capable of managing up to 1000 Network Service instances.
-    + Interface abstraction for 5 Systems with RESTful API serving as Active and Available Inventory (AAI) System to complement IBM Product feature
+    + Interface abstraction for 5 Systems with RESTful API serving as Active and Available Inventory (AAI) System to complement IBM Product feature.
     + Network equipment integration for 11 models across 5 vendors.
-    + Closed-loop integration with 3 Service Assurance functions: (1) Fault Management (2) Performance Management (3) Network Management
-    + Opened-loop integration with 2 Customer Facing functions: (1) CRM (2) Service Order Management
+    + Closed-loop integration with 3 Service Assurance functions: (1) Fault Management (2) Performance Management (3) Network Management.
+    + Opened-loop integration with 2 Customer Facing functions: (1) CRM (2) Service Order Management.
 * Worked closely with team of 7 engineers providing guidance over network domain related technologies.
 
 &nbsp;&nbsp;
