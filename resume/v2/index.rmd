@@ -47,12 +47,12 @@ Joint Proof-of-Concept Opportunity with TATA Consultancy Services for Vodafone K
 
 ## Solution Architect 
 
-_**U Mobile Sdn Bhd | Malaysia | 2022 - Current**_
+_**U Mobile Sdn Bhd. | Malaysia | 2022 - Current**_
 
 Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. E2E delivery includes Hardware, Networking, Virtualization, Service Assurance Software, Customization, Operation and Maintenance Support Services. 4 Key Solution Areas include Event Management, Performance Management, Topology Management and Trouble Ticketing System. Solution required to meet 5 years' worth of projections over 13000 Sites.
 
-* Created Solution Proposals based on different 2 deployment models (1) Private and (2) Public Cloud with costing.
-* Worked with Vendors and stakeholders to optimize Solution focusing on 4 themes: (1) Scalability, (2) Performance, (3) reliability and (4) Cost.
+* Created Solution Proposals based on different 2 deployment models: (1) Private and (2) Public Cloud.
+* Optimized Solution with Vendors and stakeholders focusing on 4 themes: (1) Scalability, (2) Performance, (3) reliability and (4) Cost.
 * Built scalable and reliable Private Cloud with over 3500 vCPUs computing resource.
 * Delivered E2E Service Assurance solution across 7 Network Operation use cases. 
 * Led team of over 7 Engineers for implementation and customization across key Solution Areas.
@@ -116,7 +116,7 @@ _**Industrial and Commercial Bank of China (ICBC) | China | 2019**_
 
 ICBC has been using Tivoli Network Performance Management (TNPM) for network performance monitoring close to 5000 network equipment. ICBC had aggressive roadmap for network observability. ICBC required monitoring granularity down to 1-minute and further.
 
-* Redesigned and Re-dimensioned TNPM deployment to cater increased load with 150 additional Collectors across 18 new servers.
+* Re-stragetized and Re-dimensioned TNPM components to cater increased load with 150 additional Collectors across 18 new servers.
 * Reorganized network equipment profiles across 7+ Vendors between Collectors to improve operational maintainability.
 
 ***
@@ -136,7 +136,7 @@ AskSara Chatbot developed to assists AIA's Customers and Agents for information 
 
 _**Public Bank Bhd. | Malaysa | 2017 - 2018**_
 
-Upgrades to IBM Security Access Manager, Tivoli Directory Integrator, and IBM Security Directory Server. The Central Access Web portal, a Java Web Application was required to be updated for integration to continue working.
+The Central Access Web portal, a Java Web Application required updates to meet integration requirements with upgraded IBM Security Access Manager, Tivoli Directory Integrator, and IBM Security Directory Server. 
 
 * Updated Java Web Application accordingly to ensure Web Portal is able to redirect users to all integrated portals.
 * Worked closely with user to ensure issues were resolved and added enhancements.
