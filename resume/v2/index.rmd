@@ -31,7 +31,7 @@ Products       |IBM Netcool Operations Insight, IBM Cloud Pak for AIOps, IBM Clo
 
 ***
 
-# Experince
+# Experience
 
 ## Consultant Architect
 
