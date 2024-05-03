@@ -49,7 +49,7 @@ Joint Proof-of-Concept Opportunity with TATA Consultancy Services for Vodafone K
 
 _**U Mobile Sdn Bhd. | Malaysia | 2022 - Current**_
 
-Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. E2E delivery includes Hardware, Networking, Virtualization, Service Assurance Software, Customization, Operation and Maintenance Support Services. 5 Key Solution Areas include Event Management, Performance Management, Topology Management, Trouble Ticketingand GIS. Solution required to meet 5 years' worth of projections over 13000 Cell Sites.
+Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. E2E delivery includes Hardware, Networking, Virtualization, Service Assurance Software, Customization, Operation and Maintenance Support Services. 5 Key Solution Areas include Event Management, Performance Management, Topology Management, Trouble Ticketing and GIS. Solution required to meet 5 years' worth of projections over 13000 Cell Sites.
 
 * Created Solution Proposals based on different 2 deployment models: (1) Private and (2) Public Cloud.
 * Collaborated with more than 5 Vendors on following matters:
