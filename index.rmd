@@ -5,18 +5,8 @@ output: html_document
 
 # I am my life's Architect. 
 
-I have been around in the software industry for approximately 8 years. My active roles are software developments, L3 support and services engagement. 
+A seasoned Architect with more than 10 years of proven track records in designing, developing, and implementing complex enterprise grade solutions. Capable to perform in highly collaborative environment with cross-functional and cross-domain teams for delivering innovative, performant, scalable, reliable solutions. Demonstrated Thought-and-Technical Leadership in driving Teams toward Delivery Excellence. Comfortable with Private Cloud and Hybrid Cloud Systems, Microservice Architectures, API, and Integration Designs for massive solutions. Passionate about Technology, enroute to be AWS Solution Architect certified. Aspired to be Enterprise Architect.
 
-I am currently working toward the Solution Architecting role. The motivation is to be able to solve customer's problems in order to create positive impact and values for customer's organization. When the opportunity is right, I will want to make a positive impact toward the community.
-
-To achieve that I actively participate in problem solving discussion within the company and take reasonable actions to help teams to move forward. During my free hours, I am trying to make a habit of reading more and attempt to look out for problem around us and ponder if there could be any resolution.
-
-You may connect with me at the following,
-
-1. [GitHub](https://github.com/yeongwei)
-2. [Email](mailto:yeongwei2004@yahoo.com)
-
-
-If you are interested about me in more detail. Feel free to click and view my [Resume](http://yeongwei.github.io/resume/).
+Feel free to click and view my [Resume](http://yeongwei.github.io/resume/v2).
 
 Thanks for reading and have a nice day!
