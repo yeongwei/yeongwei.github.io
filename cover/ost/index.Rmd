@@ -1,0 +1,32 @@
+---
+title: "Yeong Wei, Lai"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+### Architect | Software Professional Services | OSS | MANO
+
+Mobile: [+6018-660 1566](https://wa.me/186601566) \
+E-mail: yeongwei2004@yahoo.com \
+LinkedIn: https://www.linkedin.com/in/yeong-wei-116v/ \
+GitHub: https://github.com/yeongwei \
+Resume: https://yeongwei.github.io/resume/
+
+---
+
+Dear Sir / Madam,\
+\
+I am writing to express my interest in the Application Architect position at Orsted. As a seasoned Architect with proven track records, carrying more than 10 years of experience with Software Professional Service and Software Development within the Telecommunication Industry. I am genuinely excited about this opportunity for enabling me to expand my practice within the Energy Industry and I look forward to contribute towards the Green Energy Missions championed by Orsted.\
+\
+Currently at Persistent Systems Malaysia Sdn Bhd, my practice includes cross-functional and cross-domain engagements. I conduct Client facing activities with various stakeholders. I lead a team of Engineers in providing technical guidance and develop reusable architecture patterns. I collaborate with Vendors to ensure specifications and delivery objectives are met. I work with Project Office Members regularly to ensure adequate Tasks, Sprints, and Stories to archive Milestones. I also spearhead pioneer and turn-key deployments. I can be hands-on when circumstances require.\
+\
+I have always been passionate about Technology and I value highly of collaborative environment. Hence, I trust that my skill sets, experience and values can propel me to make valuable contributions at Ostred in the pursuit of Green Energy endeavors. \
+\
+Thank you for your time and I look forward to hear from you.
+\
+\
+Yours Faithfully,\
+\
+Yeong Wei, Lai
