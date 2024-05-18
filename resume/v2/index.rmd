@@ -1,10 +1,12 @@
 ---
 title: "Yeong Wei, Lai"
 output:
-  html_document: default
-  word_document: default
   pdf_document: default
+  word_document: default
+  html_document: default
 ---
+
+### Architect | Software Professional Services | OSS | MANO
 
 **Mobile**: `+6018-660 1566` | **E-mail**: `yeongwei2004@yahoo.com` \
 **LinkedIn**: `https://www.linkedin.com/in/yeong-wei-116v/` \
@@ -219,6 +221,7 @@ Product feature development for TNPM ETL Collectors to process data based on SNM
 # Education
 Institute Name|Programme / Qualification|Completion Date
 --------------------|---------------------------------------------|-------------
+AWS     |AWS Certified Solutions Architect – Associate (SAA-C03)| In progress
 Coursera|Android App Development Specialization by University of Vanderbilt|June 2018
 Coursera|Data Science Specialization by Johns Hopkins University|April 2016
 Coursera|Functional Programming Principles in Scala|June 2014
