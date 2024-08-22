@@ -1,0 +1,247 @@
+---
+title: "Yeong Wei, Lai"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+### Architect | Software Engineering Services | OSS | MANO
+
+**Mobile**: `+6018-660 1566` | **E-mail**: `yeongwei2004@yahoo.com` \
+**LinkedIn**: `https://www.linkedin.com/in/yeong-wei-116v/` \
+**Resume**: `https://yeongwei.github.io/resume/v3/`
+
+***
+
+# Summary
+
+A seasoned Architect with more than 10 years of proven track records in designing, developing, and implementing complex enterprise grade solutions. Capable to perform in highly collaborative environment with cross-functional and cross-domain teams for delivering innovative, performant, scalable, reliable solutions. Demonstrated Thought-and-Technical Leadership in driving Teams toward Delivery Excellence. Comfortable with Private Cloud and Hybrid Cloud Systems, Microservice Architectures, API, and Integration Designs for massive solutions. Passionate about Technology, enroute to be AWS Solution Architect certified. Aspired to be Enterprise Architect.
+
+***
+
+# Skills
+
+Description    |Details
+---------------|-------------------------------------------------------------------------------------------------
+Architecture   |Microservice, Event Driven, Domain Driven, Data Driven, Event Sourcing, Pub-sub, Sharding, MVC  
+Programming    |Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python  
+Platforms      |Red Hat OpenStack Platform, Red Hat OpenShift Container Platform, Red Hat Ceph Storage, Open-source Ceph, Kubernetes  
+Database       |Oracle RDBMS, IBM DB2, MySQL, PostgreSQL
+Tools          |Ansible, Jenkins, Git, Docker, Kafka, NGINX, Cacti, Podman, Prometheus, Grafana
+Products       |IBM Netcool Operations Insight, IBM Cloud Pak for AIOps, IBM Cloud Pack for Network Automation  
+
+***
+
+# Experience
+
+## Consultant Architect
+
+_**Vodafone Kabel Deutschland | Remote | 2024 Q1**_
+
+Joint Proof-of-Concept Opportunity with TATA Consultancy Services for Vodafone Kabel Deutschland Media Delivery Service Management Use Cases on Hybrid Cloud Architecture with Infrastructures / Applications running on AWS and on-premises IBM Watson AIOps.
+
+* Collaborated with TATA Consulting Team of 2 Consultants to create Architecture Blueprints focusing on Product Features, Integration Recommendations, Security Compliance Standards and TCO Estimations.
+* Led TATA Technical Team of 3 Engineers in providing guidance for POC system setup.
+* Use case included 4 major correlations features: (1) Temporal Analytics (2) Seasonality (3) Topology-based Correlation (4) Metric Anomaly Detection.
+
+***
+
+## Solution Architect 
+
+_**U Mobile Sdn Bhd. | Malaysia | 2022 - Current**_
+
+Turn-key Project with U Mobile to transform Network Service Operation towards zero-touch-autonomous model. E2E delivery includes Hardware, Networking, Virtualization, Service Assurance Software, Customization, Operation and Maintenance Support Services. 5 Key Solution Areas include Event Management, Performance Management, Topology Management, Trouble Ticketing and GIS. Solution required to meet 5 years' worth of projections over 13000 Cell Sites.
+
+* Created Solution Proposals based on different 2 deployment models: (1) Private and (2) Public Cloud.
+* Collaborated with more than 5 Vendors on following matters:
+  * Solution design and implementation focusing on 4 themes: (1) Scalability, (2) Performance, (3) reliability and (4) Cost.
+  * Optimized Solution to address budget concerns of Project Office.
+  * Align structures for post deployment support and services.
+* Built scalable and reliable Private Cloud with over 3500 vCPUs computing resource.
+* Delivered E2E Service Assurance solution across 7 Network Operation use cases. 
+* Drove Client facing discussion with more than 5 different teams: (1) OSS, (2) NOC, (3) Planning, (4) Technical Support for various Domains, (5) Field Operations.
+* Led team of over 7 Engineers for implementation and customization across key Solution Areas.
+* Regular meetings with Product Principals:
+  * Product Management on features feedback / discussions.
+  * Product SME Principals on technical support.
+* Maintained delivery standards by constantly working with Test Architect on test coverage and automation improvements.
+
+***
+
+## Integration Architect
+
+_**Verizon Communications | Remote | 2021**_
+
+Verizon, a tier-1 telecommunication operator in United States of America wanted to refresh existing Service Assurance platform with IBM Watson AIOps and Telco Network Cloud Manager for Performance (TNC-P).
+
+* Spearheaded TNC-P deployment strategy in Hybrid Cloud environment with 11+ AWS hosted Data Sources and on-premises hosted Red Hat OpenShift Container Platform with 6 Namespaces.
+* Led 4 Deployment Engineers working in Verizon highly regulated environment for Containers:
+  * Strict Security Context
+  * Lean RBAC Definition
+* Worked closely with Product Principal to support Service Mesh for 3 DevSecOps Requirements: (1) Traffic Observability (2) Canary Roll out and (3) A/B Testing.
+
+***
+
+## Solution Architect 
+
+_**TIME dotCom Bhd. | Malaysia | 2020 - Current**_
+
+TIME required a unified Performance Management Solution across multiple network domains for over 10000 critical Network Elements. Telco Network Cloud Manager for Performance (TNC-P) is a cloud native, vendor and technology agnostic, scalable and performant Performance Management Solution.
+
+* Conducted requirement gathering sessions with various operational teams over 6 network domains and prioritized delivery.
+* Designed and implemented Container Platform using Kubernetes and Open-source Ceph for TNC-P deployment.
+* Led Services Team of 5 to implement reliable and performant ETL processes for multitude of data sources using Apache NiFi.
+* Worked closely with operational user to ensure measurements were captured correctly for critical reports.
+
+&nbsp;&nbsp;
+
+_**TIME dotCom Bhd. | Malaysia | 2019 - Current**_
+
+TIME required a fully automated, integrated, end-to-end Network Service Fulfillment Solution with Closed-and-Opened-loop integration compliant with ETSI MANO Framework to manage 4 Network Service Offerings.
+
+* Modeled Network Services into 14+ modular network functions as composable Network Service Design.
+* Interacted regularly with at least 4 teams responsible for Service Fulfillment: (1) OSS (2) SOC (3) IP Planning (4) Provisioning.  
+* Designed and implemented,
+    + Reliable Network Service Orchestration Solution capable of managing up to 1000 Network Service instances.
+    + Interface abstraction for 5 Systems with RESTful API serving as Active and Available Inventory (AAI) System to complement IBM Product feature.
+    + Network equipment integration for 11 models across 5 vendors.
+    + Closed-loop integration with 3 Service Assurance functions: (1) Fault Management (2) Performance Management (3) Network Management.
+    + Opened-loop integration with 2 Customer Facing functions: (1) CRM (2) Service Order Management.
+* Worked closely with team of 7 engineers providing guidance over network domain related technologies.
+
+&nbsp;&nbsp;
+
+_**TIME dotCom Bhd. | Malaysia | 2018 - Current**_
+
+TIME had been using Netcool Product Suite for Service Assurance Platform. TIME required to scale with projection of network equipment growth to over 200k units.
+
+* Developed strategy to segment Service Assurance Systems into multiple Aggregation and Collection domains across 2 data centers.
+* Worked closely with deployment team of 4 to roll out changes incrementally prioritizing operational continuity.
+
+***
+
+## Technical Consultant
+
+_**Industrial and Commercial Bank of China (ICBC) | China | 2019**_
+
+ICBC has been using Tivoli Network Performance Management (TNPM) for network performance monitoring close to 5000 network equipment. ICBC had aggressive roadmap for network observability. ICBC required monitoring granularity down to 1-minute and further.
+
+* Re-stragetized and Re-dimensioned TNPM components to cater increased load with 150 additional Collectors across 18 new servers.
+* Reorganized network equipment profiles across 7+ Vendors between Collectors to improve operational maintainability.
+
+***
+
+## Lead Services Engineer 
+
+_**AIA Bhd. | Malaysia | 2018 - 2019**_
+
+AskSara Chatbot developed to assists AIA's Customers and Agents for information over Facebook Messenger across 10 business functions. Migrated from existing managed service platform into Watson Assistant on IBM Cloud Platform.
+
+* Designed the Conversation flow in Watson Assistant to perform within the intended Pricing Plan.
+* Designed and implemented Middleware for integration between Facebook Messenger and Watson Assistant using NodeJS Express Framework and PostgreSQL. Capable of handling up to 1000 concurrent conversations.
+
+***
+
+## Software Services Engineer
+
+_**Public Bank Bhd. | Malaysa | 2017 - 2018**_
+
+The Central Access Web portal, a Java Web Application required updates to meet integration requirements with upgraded IBM Security Access Manager, Tivoli Directory Integrator, and IBM Security Directory Server. 
+
+* Updated Java Web Application accordingly to ensure Web Portal is able to redirect users to all integrated portals.
+* Worked closely with user to ensure issues were resolved and added enhancements.
+
+***
+
+## Staff Software Engineer
+
+_**Network Performance Insight (NPI) | Malaysia | 2016 - 2017**_
+
+NPI Production Development as part of the IBM Service Assurance Portfolio with tight integration with IBM Netcool Operations Insight (NOI).
+
+* Product development using Scala, Java, JavaScript, Bash Shell Scripting and Python.
+* Implemented CI/CD Pipelines with Jenkins, GitLab and Scala / Java Test suites.
+* Automated E2E BVT with containerized approach to quickly setup and tear down environments. Improving agility and assurance.
+
+&nbsp;&nbsp;
+
+_**Etisalat UAE | Remote | 2015 - 2016**_
+
+Etisalat, prominent Telecommunication operation in Dubai wanted to refresh existing Service Assurance Platform with Netcool product suites.
+
+* Developed Automation Tools:
+  * Migrate Staging configurations to Production with Java and Bash Shell script to reduce risk.
+  * Generate Cognos Reports based on configuration definition with Java to improve operational administrative efficiency. 
+
+***
+
+## Technical Presale Engineer
+
+_**Remote & APAC | 2015 - 2016**_
+
+New opportunities for Netcool product suites with 2 potential customers: (1) Globe Telecom, Philippines (2) TrueMove, Thailand
+
+* Prepared RFP Technical compliance document.
+* Aligned with Client Technical Architect and Product SME for solution direction.
+* Prepared and maintain demo system. Conducted demo presentation with different user groups.
+
+***
+
+## Staff Software Engineer
+
+_**TNPM Data Provider | Malaysia | 2015**_
+
+Product feature development for TNPM Data extension interface with RESTful for integration with IBM Dashboard Application Services Hub Widgets.
+
+***
+
+## Software Engineer
+
+_**TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile | Malaysia | 2012 - 2014**_
+
+* Product feature enhancement on the TNPM ETL Collectors to support LogToFile protocol.
+* Completed product certification successfully at ALU Lab in Canada.
+* Supported production roll out for TELUS successfully.
+  
+&nbsp;&nbsp;
+
+_**TNPM Cognos All-KPI Report Automation | Malaysia | 2010 - 2012**_
+
+TNPM includes KPI Availability report as Product Feature. Costly to produce. Developed tools using Perl and TNPM Models in XML adhered to MVC framework to automate tasks.
+  
+&nbsp;&nbsp;
+
+_**TNPM Technology Pack | Malaysia | 2010 - 2012**_
+
+Product feature development for TNPM ETL Collectors to process data based on SNMP and File Transfer protocols using ECMA Script.
+  
+***
+
+# Education
+Institute Name|Programme / Qualification|Completion Date
+--------------------|---------------------------------------------|-------------
+AWS     |AWS Certified Solutions Architect – Associate (SAA-C03)| In progress
+Coursera|Android App Development Specialization by University of Vanderbilt|June 2018
+Coursera|Data Science Specialization by Johns Hopkins University|April 2016
+Coursera|Functional Programming Principles in Scala|June 2014
+Tunku Abdul Rahman College|Advanced Diploma in Technology - Electronics Engineering|Jan 2010
+
+***
+
+# Open-Source Contributions
+
+## Apache Calcite & Avatica
+
+Data management framework based on Java.
+
+JIRA ID        |Description
+---------------|---------------------------------------------------------------------------------------------------------
+CALCITE-705    |DML in Avatica, and split Execute out from Fetch request
+CALCITE-666    |Anti-semi-joins against JDBC adapter give wrong results
+CALCITE-259    |Using sub-queries in CASE statement against JDBC tables generates invalid Oracle SQL
+CALCITE-646    |AvaticaStatement.execute method broken over remote JDBC
+
+
+
+
