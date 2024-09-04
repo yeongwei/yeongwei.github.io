@@ -188,15 +188,11 @@ New opportunities for Netcool product suites with 2 potential customers: (1) Glo
 
 ***
 
-## Staff Software Engineer
+## Software Engineer
 
 _**TNPM Data Provider | Malaysia | 2015**_
 
 Product feature development for TNPM Data extension interface with RESTful for integration with IBM Dashboard Application Services Hub Widgets.
-
-***
-
-## Software Engineer
 
 _**TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile | Malaysia | 2012 - 2014**_
 
@@ -206,15 +202,10 @@ _**TNPM Alcatel-Lucent (ALU) 5620 SAM LogToFile | Malaysia | 2012 - 2014**_
   
 &nbsp;&nbsp;
 
-_**TNPM Cognos All-KPI Report Automation | Malaysia | 2010 - 2012**_
+_**TNPM Producte Development | Malaysia | 2010 - 2012**_
 
-TNPM includes KPI Availability report as Product Feature. Costly to produce. Developed tools using Perl and TNPM Models in XML adhered to MVC framework to automate tasks.
-  
-&nbsp;&nbsp;
-
-_**TNPM Technology Pack | Malaysia | 2010 - 2012**_
-
-Product feature development for TNPM ETL Collectors to process data based on SNMP and File Transfer protocols using ECMA Script.
+* Product feature development for TNPM ETL Collectors to process data based on SNMP and File Transfer protocols using ECMA Script.
+* Developed automation tools using Perl for generating TNPM Models in XML adhered to MVC practices.
   
 ***
 
