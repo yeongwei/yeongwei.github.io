@@ -3,10 +3,10 @@ title: "Yeong Wei, Lai"
 output: html_document
 ---
 
-# I am my life's Architect. 
+# I am an Architect 
 
-A seasoned Architect with more than 10 years of proven track records in designing, developing, and implementing complex enterprise grade solutions. Capable to perform in highly collaborative environment with cross-functional and cross-domain teams for delivering innovative, performant, scalable, reliable solutions. Demonstrated Thought-and-Technical Leadership in driving Teams toward Delivery Excellence. Comfortable with Private Cloud and Hybrid Cloud Systems, Microservice Architectures, API, and Integration Designs for massive solutions. Passionate about Technology, enroute to be AWS Solution Architect certified. Aspired to be Enterprise Architect.
+A seasoned Architect with more than 10 years of proven track records in designing, developing, and implementing complex enterprise grade solutions. Capable to perform in highly collaborative environment with cross-functional and cross-domain teams for delivering innovative, performant, scalable, reliable solutions. Demonstrated Thought-and-Technical Leadership in driving Teams toward Delivery Excellence. Comfortable with Private Cloud and Hybrid Cloud Systems, Microservice Architectures, API, and Integration Designs for massive solutions. Passionate about Technology, AWS Solution Architect Associate certified. Aspired to be Enterprise Architect.
 
-Feel free to click and view my [Resume](http://yeongwei.github.io/resume/v2).
+Feel free to click and view my [CV](http://yeongwei.github.io/cv/v4).
 
 Thanks for reading and have a nice day!
