@@ -37,7 +37,7 @@ Tools          |Ansible, Jenkins, Git, Docker, Kafka, NGINX, Cacti, Podman, Prom
 
 ## Solution Architect
 
-_**Allianz Technology Sdn. Bhd. | Malaysia | 2025**_
+_**Allianz Technology Sdn. Bhd. | Malaysia | Current**_
 
 Responsible for the Design, Development and Implementing Solution Architectures for Digital Transformation Projects. IT Value Streams involvement: (1) Strategy to Portfolio (2) Requirement to Deploy (3) Request to Fulfill (4) Detect to Correct
 
