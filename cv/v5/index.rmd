@@ -25,10 +25,9 @@ A seasoned Solution Architect with proven track records in designing, developing
 Description    |Details
 ---------------|-------------------------------------------------------------------------------------------------
 Architecture   |Microservice, Event Driven, Domain Driven, Data Driven, Event Sourcing, Pub-sub, Sharding, MVC 
-Cloud          |AWS, Azure
 Database       |Oracle RDBMS, IBM DB2, MySQL, PostgreSQL, H2
-Products       |IBM Netcool Operations Insight, IBM Cloud Pak for AIOps, IBM Cloud Pack for Network Automation
-Platforms      |Red Hat OpenStack, OpenShift and Ceph Storage Platforms, Open-source Ceph and Kubernetes Platforms
+Products       |IBM Netcool Operations Insight, IBM Cloud Pak for AIOps, IBM Cloud Pack for Network Automation, Dynatrace
+Platforms      |AWS, Azure, Red Hat OpenStack, OpenShift and Ceph Storage Platforms, Open-source Ceph and Kubernetes Platforms
 Programming    |Java, Scala, PHP, Perl, JavaScripts, HTML, CSS, Bash Shell Scripting, SQL, R Programming, Python  
 Tools          |Ansible, Jenkins, Git, Docker, Kafka, NGINX, Cacti, Podman, Prometheus, Grafana, Terraform
 
@@ -40,11 +39,11 @@ Tools          |Ansible, Jenkins, Git, Docker, Kafka, NGINX, Cacti, Podman, Prom
 
 _**Allianz Technology Sdn. Bhd. | Malaysia | 2025**_
 
-Developing and Implementing solution architectures for various Digital Transformation Projects. Responsible in S2P, R2D, R2F, D2C IT Value Streams.
+Responsible for the Design, Development and Implementing Solution Architectures for Digital Transformation Projects. IT Value Streams involvement: (1) Strategy to Portfolio (2) Requirement to Deploy (3) Request to Fulfill (4) Detect to Correct
 
-* Cloudification of Critical System: Output Management
-* Insurance Automation: Health Claims Copilot
-* Core System Transformation for Property & Casualty Insurance Business
+* Transformation of Critical System: Output Management from on-premises to Cloud
+* Health Operation Efficacy Improvement via Insurance Automation: Health Claims Copilot
+* Core Insurance System Transformation for Property & Casualty Line of Business
 
 ## Consultant Architect
 
@@ -223,9 +222,9 @@ _**TNPM Producte Development | Malaysia | 2010 - 2012**_
 # Education
 Institute Name|Programme / Qualification|Completion Date
 --------------------|---------------------------------------------|-------------
-The Digital Insurer     | Value Chain Innocations | XXXX
-AWS     |AWS Certified Developer – Associate (xxx-xxx)| December 2024
-AWS     |AWS Cerfified SysOps Administartor – Associate (xxx-xxx)| December 2024
+The Digital Insurer     |CDI4 - Value Chain Innovations | September 2025
+AWS     |AWS Certified SysOps Administrator – Associate (SOA-C02)| December 2024
+AWS     |AWS Certified Developer - Associate (DVA-C02) | December 2024
 AWS     |AWS Certified Solutions Architect – Associate (SAA-C03)| August 2024
 Coursera|Android App Development Specialization by University of Vanderbilt|June 2018
 Coursera|Data Science Specialization by Johns Hopkins University|April 2016
